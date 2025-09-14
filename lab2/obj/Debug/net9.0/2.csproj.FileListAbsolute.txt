@@ -1,0 +1,14 @@
+D:\Shared_Data\ВУЗ\3 курс\Лабы\Визуальное программирование\2\bin\Debug\net9.0\2.exe
+D:\Shared_Data\ВУЗ\3 курс\Лабы\Визуальное программирование\2\bin\Debug\net9.0\2.deps.json
+D:\Shared_Data\ВУЗ\3 курс\Лабы\Визуальное программирование\2\bin\Debug\net9.0\2.runtimeconfig.json
+D:\Shared_Data\ВУЗ\3 курс\Лабы\Визуальное программирование\2\bin\Debug\net9.0\2.dll
+D:\Shared_Data\ВУЗ\3 курс\Лабы\Визуальное программирование\2\bin\Debug\net9.0\2.pdb
+D:\Shared_Data\ВУЗ\3 курс\Лабы\Визуальное программирование\2\obj\Debug\net9.0\2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Shared_Data\ВУЗ\3 курс\Лабы\Визуальное программирование\2\obj\Debug\net9.0\2.AssemblyInfoInputs.cache
+D:\Shared_Data\ВУЗ\3 курс\Лабы\Визуальное программирование\2\obj\Debug\net9.0\2.AssemblyInfo.cs
+D:\Shared_Data\ВУЗ\3 курс\Лабы\Визуальное программирование\2\obj\Debug\net9.0\2.csproj.CoreCompileInputs.cache
+D:\Shared_Data\ВУЗ\3 курс\Лабы\Визуальное программирование\2\obj\Debug\net9.0\2.dll
+D:\Shared_Data\ВУЗ\3 курс\Лабы\Визуальное программирование\2\obj\Debug\net9.0\refint\2.dll
+D:\Shared_Data\ВУЗ\3 курс\Лабы\Визуальное программирование\2\obj\Debug\net9.0\2.pdb
+D:\Shared_Data\ВУЗ\3 курс\Лабы\Визуальное программирование\2\obj\Debug\net9.0\2.genruntimeconfig.cache
+D:\Shared_Data\ВУЗ\3 курс\Лабы\Визуальное программирование\2\obj\Debug\net9.0\ref\2.dll

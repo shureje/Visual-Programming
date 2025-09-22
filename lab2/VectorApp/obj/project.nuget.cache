@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "TOCHs837fxQ=",
+  "success": true,
+  "projectFilePath": "F:\\ВУЗ\\3 курс\\1 семестр\\Visual-Programming\\lab2\\VectorApp\\VectorApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\zxsakurai\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.20\\microsoft.windowsdesktop.app.ref.8.0.20.nupkg.sha512",
+    "C:\\Users\\zxsakurai\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.20\\microsoft.netcore.app.ref.8.0.20.nupkg.sha512",
+    "C:\\Users\\zxsakurai\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.20\\microsoft.aspnetcore.app.ref.8.0.20.nupkg.sha512",
+    "C:\\Users\\zxsakurai\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.20\\microsoft.netcore.app.host.win-x64.8.0.20.nupkg.sha512"
+  ],
+  "logs": []
+}

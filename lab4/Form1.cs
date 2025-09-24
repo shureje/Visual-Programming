@@ -2,7 +2,7 @@ namespace lab4
 {
     public partial class Form1 : Form
     {
-        private GenericsDescSortedList<string> list = new GenericsDescSortedList<string>();
+        private GenericsDescSortedList<double> list = new GenericsDescSortedList<double>();
         public Form1()
         {
             InitializeComponent();
@@ -38,7 +38,11 @@ namespace lab4
         {
             if (InputTextBox.Text.Length > 0)
             {
-                list.Add(InputTextBox.Text);
+                if (double.TryParse(InputTextBox.Text, out double number))
+                {
+                    list.Add(number);
+                }
+                
             }
         }
 
@@ -56,7 +60,12 @@ namespace lab4
         {
             try
             {
-                OutputBox.Text = list.Max();
+                var number = list.Max().ToString();
+                if (number.Length > 0)
+                {
+                    OutputBox.Text = number;
+                }
+                
             }
             catch (Exception ex)
             {
@@ -68,7 +77,12 @@ namespace lab4
         {
             try
             {
-                OutputBox.Text = list.Min();
+                var number = list.Min().ToString();
+                if (number.Length > 0)
+                {
+                    OutputBox.Text = number;
+                }
+
             }
             catch (Exception ex)
             {

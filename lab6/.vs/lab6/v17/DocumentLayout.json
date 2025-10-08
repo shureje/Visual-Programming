@@ -1,0 +1,73 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Shared_Data\\\u0412\u0423\u0417\\3 \u043A\u0443\u0440\u0441\\\u041B\u0430\u0431\u044B\\Visual-Programming\\lab6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7C143F-67A2-49DE-AC81-D983126EFF42}|lab6.csproj|d:\\shared_data\\\u0432\u0443\u0437\\3 \u043A\u0443\u0440\u0441\\\u043B\u0430\u0431\u044B\\visual-programming\\lab6\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5A7C143F-67A2-49DE-AC81-D983126EFF42}|lab6.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7C143F-67A2-49DE-AC81-D983126EFF42}|lab6.csproj|d:\\shared_data\\\u0432\u0443\u0437\\3 \u043A\u0443\u0440\u0441\\\u043B\u0430\u0431\u044B\\visual-programming\\lab6\\potentiometr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A7C143F-67A2-49DE-AC81-D983126EFF42}|lab6.csproj|solutionrelative:potentiometr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7C143F-67A2-49DE-AC81-D983126EFF42}|lab6.csproj|d:\\shared_data\\\u0432\u0443\u0437\\3 \u043A\u0443\u0440\u0441\\\u043B\u0430\u0431\u044B\\visual-programming\\lab6\\potentiometr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5A7C143F-67A2-49DE-AC81-D983126EFF42}|lab6.csproj|solutionrelative:potentiometr.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Potentiometr.cs",
+              "DocumentMoniker": "D:\\Shared_Data\\\u0412\u0423\u0417\\3 \u043A\u0443\u0440\u0441\\\u041B\u0430\u0431\u044B\\Visual-Programming\\lab6\\Potentiometr.cs",
+              "RelativeDocumentMoniker": "Potentiometr.cs",
+              "ToolTip": "D:\\Shared_Data\\\u0412\u0423\u0417\\3 \u043A\u0443\u0440\u0441\\\u041B\u0430\u0431\u044B\\Visual-Programming\\lab6\\Potentiometr.cs",
+              "RelativeToolTip": "Potentiometr.cs",
+              "ViewState": "AgIAALAAAAAAAAAAAAAxwNIAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T17:24:56.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Potentiometr.cs [Design]",
+              "DocumentMoniker": "D:\\Shared_Data\\\u0412\u0423\u0417\\3 \u043A\u0443\u0440\u0441\\\u041B\u0430\u0431\u044B\\Visual-Programming\\lab6\\Potentiometr.cs",
+              "RelativeDocumentMoniker": "Potentiometr.cs",
+              "ToolTip": "D:\\Shared_Data\\\u0412\u0423\u0417\\3 \u043A\u0443\u0440\u0441\\\u041B\u0430\u0431\u044B\\Visual-Programming\\lab6\\Potentiometr.cs [Design]",
+              "RelativeToolTip": "Potentiometr.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T17:22:02.042Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Shared_Data\\\u0412\u0423\u0417\\3 \u043A\u0443\u0440\u0441\\\u041B\u0430\u0431\u044B\\Visual-Programming\\lab6\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "D:\\Shared_Data\\\u0412\u0423\u0417\\3 \u043A\u0443\u0440\u0441\\\u041B\u0430\u0431\u044B\\Visual-Programming\\lab6\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-08T17:19:21.443Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

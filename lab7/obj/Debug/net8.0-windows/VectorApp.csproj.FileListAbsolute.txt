@@ -1,0 +1,17 @@
+F:\ВУЗ\3 курс\1 семестр\Visual-Programming\lab2\VectorApp\bin\Debug\net8.0-windows\VectorApp.exe
+F:\ВУЗ\3 курс\1 семестр\Visual-Programming\lab2\VectorApp\bin\Debug\net8.0-windows\VectorApp.deps.json
+F:\ВУЗ\3 курс\1 семестр\Visual-Programming\lab2\VectorApp\bin\Debug\net8.0-windows\VectorApp.runtimeconfig.json
+F:\ВУЗ\3 курс\1 семестр\Visual-Programming\lab2\VectorApp\bin\Debug\net8.0-windows\VectorApp.dll
+F:\ВУЗ\3 курс\1 семестр\Visual-Programming\lab2\VectorApp\bin\Debug\net8.0-windows\VectorApp.pdb
+F:\ВУЗ\3 курс\1 семестр\Visual-Programming\lab2\VectorApp\obj\Debug\net8.0-windows\VectorApp.Form1.resources
+F:\ВУЗ\3 курс\1 семестр\Visual-Programming\lab2\VectorApp\obj\Debug\net8.0-windows\VectorApp.csproj.GenerateResource.cache
+F:\ВУЗ\3 курс\1 семестр\Visual-Programming\lab2\VectorApp\obj\Debug\net8.0-windows\VectorApp.GeneratedMSBuildEditorConfig.editorconfig
+F:\ВУЗ\3 курс\1 семестр\Visual-Programming\lab2\VectorApp\obj\Debug\net8.0-windows\VectorApp.AssemblyInfoInputs.cache
+F:\ВУЗ\3 курс\1 семестр\Visual-Programming\lab2\VectorApp\obj\Debug\net8.0-windows\VectorApp.AssemblyInfo.cs
+F:\ВУЗ\3 курс\1 семестр\Visual-Programming\lab2\VectorApp\obj\Debug\net8.0-windows\VectorApp.csproj.CoreCompileInputs.cache
+F:\ВУЗ\3 курс\1 семестр\Visual-Programming\lab2\VectorApp\obj\Debug\net8.0-windows\VectorApp.sourcelink.json
+F:\ВУЗ\3 курс\1 семестр\Visual-Programming\lab2\VectorApp\obj\Debug\net8.0-windows\VectorApp.dll
+F:\ВУЗ\3 курс\1 семестр\Visual-Programming\lab2\VectorApp\obj\Debug\net8.0-windows\refint\VectorApp.dll
+F:\ВУЗ\3 курс\1 семестр\Visual-Programming\lab2\VectorApp\obj\Debug\net8.0-windows\VectorApp.pdb
+F:\ВУЗ\3 курс\1 семестр\Visual-Programming\lab2\VectorApp\obj\Debug\net8.0-windows\VectorApp.genruntimeconfig.cache
+F:\ВУЗ\3 курс\1 семестр\Visual-Programming\lab2\VectorApp\obj\Debug\net8.0-windows\ref\VectorApp.dll

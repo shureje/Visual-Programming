@@ -1,0 +1,2403 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <language>ru</language>
+    <title>Lenta.ru : Статьи</title>
+    <description>Новости, статьи, фотографии, видео. Семь дней в неделю, 24 часа в сутки.</description>
+    <link>https://lenta.ru</link>
+    <image>
+      <url>https://lenta.ru/images/small_logo.png</url>
+      <title>Lenta.ru</title>
+      <link>https://lenta.ru</link>
+      <width>134</width>
+      <height>22</height>
+    </image>
+    <atom:link rel="self" type="application/rss+xml" href="http://lenta.ru/rss/articles"/>
+<item>
+  <guid>https://lenta.ru/articles/2025/11/02/bullock/</guid>
+  <author>Наталья Обрядина1</author>
+  <title>Смерть любви всей ее жизни, преследования сталкера и измены. Как справляется с ударами судьбы Сандра Буллок?</title>
+  <link>https://lenta.ru/articles/2025/11/02/bullock/</link>
+  <description>
+    <![CDATA[]]>
+  </description>
+  <pubDate>Sun, 02 Nov 2025 00:01:07 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2025/09/24/19/20250924195930872/pic_b8671412ee64736128ad4995a682bd90.jpg" type="image/jpeg" length="27245"/>
+  <category>Забота о себе</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/11/02/izbil-kuskom-dereva-i-pereehal-na-mashine-50-let-nazad-mir-potryaslo-ubiystvo-znamenitogo-rezhissera/</guid>
+  <author>Илья Кролевский</author>
+  <title>«Избил деревяшкой и переехал на машине». 50 лет назад мир потрясла гибель знаменитого режиссера. Кто и зачем его убил? </title>
+  <link>https://lenta.ru/articles/2025/11/02/izbil-kuskom-dereva-i-pereehal-na-mashine-50-let-nazad-mir-potryaslo-ubiystvo-znamenitogo-rezhissera/</link>
+  <description>
+    <![CDATA[]]>
+  </description>
+  <pubDate>Sun, 02 Nov 2025 00:01:05 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2025/11/01/13/20251101130844705/pic_b33d56615be12d4cd8dcad76e5b48acf.jpg" type="image/jpeg" length="23931"/>
+  <category>Культура</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/11/02/otnosilis-kak-k-rabam/</guid>
+  <author>Илона Палей</author>
+  <title>«Ее сильно избили и раздели» Россиянок заманивают в азиатские скам-центры и удерживают там силой. Как устроен этот бизнес?</title>
+  <link>https://lenta.ru/articles/2025/11/02/otnosilis-kak-k-rabam/</link>
+  <description>
+    <![CDATA[]]>
+  </description>
+  <pubDate>Sun, 02 Nov 2025 00:01:03 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2025/10/31/13/20251031135433241/pic_3aa0e29ab8a56ad227dfda7f86f2ace4.jpg" type="image/jpeg" length="30219"/>
+  <category>Силовые структуры</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/11/01/irina-sheyk-primerila-obraz-pornozvezdy-haydi-klum-stala-meduzoy-a-makoley-kalkin-unitazom/</guid>
+  <author>Майя Пономаренко</author>
+  <title>Ирина Шейк в образе порнозвезды, гладиатор Павел Дуров и Маколей Калкин в костюме унитаза. Чем удивляли звезды на Хеллоуин?</title>
+  <link>https://lenta.ru/articles/2025/11/01/irina-sheyk-primerila-obraz-pornozvezdy-haydi-klum-stala-meduzoy-a-makoley-kalkin-unitazom/</link>
+  <description>
+    <![CDATA[]]>
+  </description>
+  <pubDate>Sat, 01 Nov 2025 19:03:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2025/11/01/20/20251101204313324/pic_7731962b19c636f9a5a29705ba391a4d.jpg" type="image/jpeg" length="39034"/>
+  <category>Ценности</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/11/01/kak-sdelat-novogodniy-venok-svoimi-rukami/</guid>
+  <author>Ксения Дорофеева</author>
+  <title>Новогодний венок своими руками: 3 пошаговые инструкции с фото</title>
+  <link>https://lenta.ru/articles/2025/11/01/kak-sdelat-novogodniy-venok-svoimi-rukami/</link>
+  <description>
+    <![CDATA[Новогодние или рождественские венков — украшение, которое становится все популярнее. Его можно купить на маркетплейсах или в супермаркетах, а можно смастерить самостоятельно, превратив процесс в увлекательное время для всей семьи. «Лента.ру» рассказывает, как сделать новогодний венок своими руками из разных материалов.]]>
+  </description>
+  <pubDate>Sat, 01 Nov 2025 17:58:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2024/12/23/13/20241223134129211/pic_6a976c0e46cfc6663d2b6fcbf6d61c7f.jpg" type="image/jpeg" length="45504"/>
+  <category>Из жизни</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/11/01/kak-sdelat-shary-dlya-elki-svoimi-rukami/</guid>
+  <author>Екатерина Керсипова</author>
+  <title>Как сделать новогодние шары своими руками: 4 пошаговых инструкции</title>
+  <link>https://lenta.ru/articles/2025/11/01/kak-sdelat-shary-dlya-elki-svoimi-rukami/</link>
+  <description>
+    <![CDATA[В прошлом веке, когда стеклянные елочные игрушки были очень дорогими, украшения делали самостоятельно, всей семьей вместе с детьми. Сегодня самодельный декор на новогодней елке тоже может выглядеть стильно и актуально. «Лента.ру» рассказывает, как сделать новогодние шары своими руками.<br />]]>
+  </description>
+  <pubDate>Sat, 01 Nov 2025 17:54:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2024/12/12/12/20241212124333226/pic_a3daf2dd76e00ac60df680b582690686.jpg" type="image/jpeg" length="25680"/>
+  <category>Из жизни</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/11/01/kak-sdelat-girlyandu-na-novyy-god-svoimi-rukami/</guid>
+  <author>Оксана Чернышева</author>
+  <title>Как сделать гирлянду на Новый год своими руками: 10 простых, бюджетных и красивых идей</title>
+  <link>https://lenta.ru/articles/2025/11/01/kak-sdelat-girlyandu-na-novyy-god-svoimi-rukami/</link>
+  <description>
+    <![CDATA[Согласно исследованию медиахолдинга Rambler&Co, 82 процента россиян украшают свои дома и квартиры к Новому году. 67 процентов предпочитают не тратить на декор много денег. «Лента.ру» собрала самые простые и бюджетные способы сделать новогодние гирлянды для украшения дома — многие идеи можно воплотить вместе с детьми.]]>
+  </description>
+  <pubDate>Sat, 01 Nov 2025 17:51:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2024/11/27/14/20241127142900848/pic_65e0105ee3b573298c67436054650820.jpg" type="image/jpeg" length="32310"/>
+  <category>Из жизни</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/11/01/luchshie-russkie-novogodnie-filmy/</guid>
+  <author>Эдуард Юсупов</author>
+  <title>Лучшие русские новогодние фильмы: топ-10</title>
+  <link>https://lenta.ru/articles/2025/11/01/luchshie-russkie-novogodnie-filmy/</link>
+  <description>
+    <![CDATA[В России и СССР было снято много фильмов про Новый год: это трогательные романтичные истории, необычные комедии и достаточно тяжелые глубокие фильмы. «Лента.ру» публикует подборку лучших советских и российских фильмов, которые смогут стать отличной заменой «Иронии судьбы».]]>
+  </description>
+  <pubDate>Sat, 01 Nov 2025 17:49:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/12/19/18/20231219180527319/pic_23c7ae481f1d8e1a6d7c831b1c44abe6.jpg" type="image/jpeg" length="19472"/>
+  <category>Культура</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/11/01/luchshie-novogodnie-multfilmy/</guid>
+  <author>Мария Ушакова</author>
+  <title>Лучшие новогодние мультфильмы: 26 картин, которые можно посмотреть с ребенком на каникулах</title>
+  <link>https://lenta.ru/articles/2025/11/01/luchshie-novogodnie-multfilmy/</link>
+  <description>
+    <![CDATA[Обязательные атрибуты новогоднего настроения — нарядная елка, пушистый снег за окном и ощущение наступающего праздника. Создать атмосферу помогут также новогодние мультфильмы, которые заставят поверить в чудо не только маленьких зрителей, но и взрослых. «Лента.ру» публикует подборку лучших новогодних историй.]]>
+  </description>
+  <pubDate>Sat, 01 Nov 2025 17:48:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/10/24/14/20231024145159119/pic_835b01ffd3243c3d30eb6fe32f4b4c85.jpg" type="image/jpeg" length="36728"/>
+  <category>Культура</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/11/01/k-chemu-snitsya-vypadenie-zubov/</guid>
+  <author>Мария Васильева</author>
+  <title>К чему снится выпадение зубов: толкование по соннику, мнение психолога</title>
+  <link>https://lenta.ru/articles/2025/11/01/k-chemu-snitsya-vypadenie-zubov/</link>
+  <description>
+    <![CDATA[В вещие сны верит треть россиян, свидетельствуют данные опроса ВЦИОМ. С разной периодичностью за толкованием увиденного к соннику обращаются три из десяти сограждан. Один из наиболее частых запросов — объяснение снов о зубах. «Лента.ру» выясняла, о чем предупреждают сны, в которых вы видите зубы.]]>
+  </description>
+  <pubDate>Sat, 01 Nov 2025 17:39:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2025/04/17/17/20250417174540090/pic_2f2fbedf90752ed5528fc815d8fd45cf.jpg" type="image/jpeg" length="24173"/>
+  <category>Забота о себе</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/11/01/skolko-grammov-v-stolovoy-i-chaynoy-lozhkah/</guid>
+  <author>Мария Васильева</author>
+  <title>Сколько граммов в столовой и чайной ложках: таблица веса популярных продуктов</title>
+  <link>https://lenta.ru/articles/2025/11/01/skolko-grammov-v-stolovoy-i-chaynoy-lozhkah/</link>
+  <description>
+    <![CDATA[76 процентов россиян выбирают традиционные русские блюда для домашнего приготовления — следом идут паназиатская и итальянская кухня. При этом для приготовления любого блюда очень важно правильно измерять вес ингредиентов. «Лента.ру» рассказывает, сколько граммов в столовой и чайной ложках, а также как измерить вес разл]]>
+  </description>
+  <pubDate>Sat, 01 Nov 2025 17:37:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2025/03/26/13/20250326131456962/pic_85b9fa464e1f19edf23b48c92339a51c.jpg" type="image/jpeg" length="24294"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/11/01/otkrytki-s-dobrym-utrom/</guid>
+  <title>Открытки с добрым утром: 50+ красивых картинок, чтобы пожелать хорошего начала дня</title>
+  <link>https://lenta.ru/articles/2025/11/01/otkrytki-s-dobrym-utrom/</link>
+  <description>
+    <![CDATA[Отправить картинку с пожеланиями доброго утра перед началом дня — простой способ проявить внимание к близким, особенно когда они находятся далеко. «Лента.ру» подготовила более 50 красивых открыток с добрым утром, которые можно скачать и отправить в соцсетях и мессенджере.]]>
+  </description>
+  <pubDate>Sat, 01 Nov 2025 17:33:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2025/03/20/13/20250320131503780/pic_a6aa23034054ae6a63902b1b9fc90f22.jpg" type="image/jpeg" length="32252"/>
+  <category>Из жизни</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/11/01/kabachkovaya-ikra-po-gostu-retsept/</guid>
+  <author>Екатерина Керсипова</author>
+  <title>Кабачковая икра как в СССР: заготовка на зиму, рецепт по ГОСТу</title>
+  <link>https://lenta.ru/articles/2025/11/01/kabachkovaya-ikra-po-gostu-retsept/</link>
+  <description>
+    <![CDATA[Приготовить ностальгическую, самую вкусную, «ту самую» кабачковую икру по советскому ГОСТу в домашних условиях несложно. Эта закуска вот уже почти сто лет любима россиянами, за это время хозяйки отточили мастерство приготовления закуски на домашних кухнях. «Лента.ру» рассказывает, как приготовить кабачковую икру.]]>
+  </description>
+  <pubDate>Sat, 01 Nov 2025 17:27:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2024/10/22/16/20241022162312726/pic_ad764ddb97a3338fa1b23dd4c5dde053.jpg" type="image/jpeg" length="37095"/>
+  <category>Из жизни</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/11/01/chto-posmotret-v-novogodnie-prazdniki/</guid>
+  <author>Мария Ушакова</author>
+  <title>Что посмотреть в новогодние праздники: 36 лучших новогодних фильмов всех времен</title>
+  <link>https://lenta.ru/articles/2025/11/01/chto-posmotret-v-novogodnie-prazdniki/</link>
+  <description>
+    <![CDATA[Новогодние праздники — прекрасная возможность собраться всей семьей и посмотреть хорошее кино под пледом с согревающими напитками. Порой бывает непросто выбрать фильм с подходящей атмосферой и захватывающим сюжетом. «Лента.ру» собрала лучшие новогодние кинокартины, которые отлично подойдут для зимних вечеров.]]>
+  </description>
+  <pubDate>Sat, 01 Nov 2025 17:11:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/10/09/13/20231009131332990/pic_ff95dea3a35fc93c224a7bad3e5ecfe7.jpg" type="image/jpeg" length="39633"/>
+  <category>Культура</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/11/01/serial-oldskul-2-sezon/</guid>
+  <author>Юлия Анасян</author>
+  <title>Сериал «Олдскул», 2-й сезон: что известно о продолжении комедии про советскую математичку в современной школе?</title>
+  <link>https://lenta.ru/articles/2025/11/01/serial-oldskul-2-sezon/</link>
+  <description>
+    <![CDATA[В 2026 году стартуют съемки второго сезона комедии «Олдскул». Сценарий почти готов, но детали сюжета пока не раскрываются. Эксперты прогнозируют, что сериал вполне может повторить успех «Физрука» благодаря харизматичной главной героине. Что известно о втором сезоне, рассказывает «Лента.ру». <br />]]>
+  </description>
+  <pubDate>Sat, 01 Nov 2025 16:58:27 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2025/10/31/16/20251031163704606/pic_c24db62682aebc8054b94f5d23bb9ff4.jpeg" type="image/jpeg" length="31717"/>
+  <category>Культура</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/11/01/pensionnoe-udostoverenie/</guid>
+  <author>Валерия Княгинина</author>
+  <title>Пенсионное удостоверение: как и где получить документ в 2025 году?</title>
+  <link>https://lenta.ru/articles/2025/11/01/pensionnoe-udostoverenie/</link>
+  <description>
+    <![CDATA[С 1 октября 2025 года можно подтвердить факт назначения пенсии с помощью сформированного на «Госуслугах» QR-кода, привязанного к электронному пенсионному удостоверению. «Лента.ру» рассказывает, кому полагается пенсионное удостоверение, как его оформить и право на какие льготы оно дает.]]>
+  </description>
+  <pubDate>Sat, 01 Nov 2025 16:58:17 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2025/10/27/12/20251027122002395/pic_af65c2bd6348e2c462a6ae62b42b2f10.jpg" type="image/jpeg" length="21974"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/11/01/shtrafy-za-prosrochennyy-pasport/</guid>
+  <author>Валерия Княгинина</author>
+  <title>Штрафы за просроченный паспорт в 2025 году. Какое наказание грозит за несвоевременную замену документа?</title>
+  <link>https://lenta.ru/articles/2025/11/01/shtrafy-za-prosrochennyy-pasport/</link>
+  <description>
+    <![CDATA[Несвоевременная замена внутреннего паспорта считается административным правонарушением. «Лента.ру» рассказывает, в каких случаях нужно менять главный документ, удостоверяющий личность, сколько придется заплатить за его изготовление, а также какие штрафы предусмотрены за использование недействительного паспорта.]]>
+  </description>
+  <pubDate>Sat, 01 Nov 2025 16:58:05 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2025/10/28/16/20251028162315648/pic_8424edec9994be2c4d0cb62e9881cfde.jpg" type="image/jpeg" length="13246"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/11/01/pravila-v-ezda-v-polshu-dlya-rossiyan/</guid>
+  <author>Мария Васильева</author>
+  <title>Правила въезда в Польшу для россиян в 2025 году: необходимые документы</title>
+  <link>https://lenta.ru/articles/2025/11/01/pravila-v-ezda-v-polshu-dlya-rossiyan/</link>
+  <description>
+    <![CDATA[Для большинства россиян въезд в Польшу ограничен –– страна не выдает туристические визы. Однако попасть в Польшу наши соотечественники все же могут –– «Лента.ру» выяснила, при каких условиях въезд в Польшу открыт для россиян, как попасть в страну через соседние регионы и какие документы необходимо для этого оформить.]]>
+  </description>
+  <pubDate>Sat, 01 Nov 2025 16:57:54 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2025/10/23/15/20251023154339418/pic_183a7cb489e4cc1792d23fda985a339f.jpg" type="image/jpeg" length="38366"/>
+  <category>Путешествия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/11/01/pravila-v-ezda-v-polshu-dlya-rossiyan/</guid>
+  <author>Мария Васильева</author>
+  <title>Правила въезда в Польшу для россиян в 2025 году: необходимые документы</title>
+  <link>https://lenta.ru/articles/2025/11/01/pravila-v-ezda-v-polshu-dlya-rossiyan/</link>
+  <description>
+    <![CDATA[Для большинства россиян въезд в Польшу ограничен –– страна не выдает туристические визы. Однако попасть в Польшу наши соотечественники все же могут –– «Лента.ру» выяснила, при каких условиях въезд в Польшу открыт для россиян, как попасть в страну через соседние регионы и какие документы необходимо для этого оформить.]]>
+  </description>
+  <pubDate>Sat, 01 Nov 2025 16:57:54 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2025/10/23/15/20251023154339418/pic_183a7cb489e4cc1792d23fda985a339f.jpg" type="image/jpeg" length="38366"/>
+  <category>Путешествия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/11/01/kakoy-iphone-luchshe-kupit/</guid>
+  <author>Алексей Хвостов</author>
+  <title>Какой iPhone купить в 2026 году: как выбрать оптимальную модель</title>
+  <link>https://lenta.ru/articles/2025/11/01/kakoy-iphone-luchshe-kupit/</link>
+  <description>
+    <![CDATA[IPhone — один из мировых лидеров на рынке смартфонов. Устройства от Apple по-прежнему представляют интерес для отечественного потребителя. «Лента.ру» рассказывает, какие айфоны представлены на рынке и как сделать оптимальный выбор при покупке под разные задачи и бюджет.                                       <br />]]>
+  </description>
+  <pubDate>Sat, 01 Nov 2025 16:30:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/12/04/16/20231204165814006/pic_4f515a74890c61e732da33be37392984.jpg" type="image/jpeg" length="17810"/>
+  <category>Наука и техника</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/11/01/obnovlenie/</guid>
+  <author>Вячеслав Агапов</author>
+  <title>«Превратились в пепел» Любители видеоигр годами вкладывали деньги в виртуальные вещи. Почему их цена обрушилась в один момент?</title>
+  <link>https://lenta.ru/articles/2025/11/01/obnovlenie/</link>
+  <description>
+    <![CDATA[]]>
+  </description>
+  <pubDate>Sat, 01 Nov 2025 00:01:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2025/10/30/15/20251030152730599/pic_31dceca4ebe4fb85d6f83d4b2c011b2e.jpg" type="image/jpeg" length="21185"/>
+  <category>Экономика</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/11/01/maloimushie/</guid>
+  <author>Дарья Новичкова</author>
+  <title>В России школьников поделили на «малоимущих» и «СВО». Что на самом деле кроется за скандалом?</title>
+  <link>https://lenta.ru/articles/2025/11/01/maloimushie/</link>
+  <description>
+    <![CDATA[]]>
+  </description>
+  <pubDate>Sat, 01 Nov 2025 00:01:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2025/10/31/11/20251031115948030/pic_0fc2c28bb51a180562762024d153d439.jpg" type="image/jpeg" length="26296"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/11/01/vyshel-chetvertyy-sezon-vedmaka-s-novym-geraltom/</guid>
+  <author>Илья Кролевский</author>
+  <title>Вышел новый сезон «Ведьмака». Культового фэнтези-персонажа теперь играет другая голливудская звезда. Что из этого вышло?</title>
+  <link>https://lenta.ru/articles/2025/11/01/vyshel-chetvertyy-sezon-vedmaka-s-novym-geraltom/</link>
+  <description>
+    <![CDATA[]]>
+  </description>
+  <pubDate>Sat, 01 Nov 2025 00:01:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2025/10/31/16/20251031160509258/pic_dc3135c6696df0204f17452fbe075e46.jpg" type="image/jpeg" length="22156"/>
+  <category>Культура</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/31/magnitnye-buri-v-noyabre/</guid>
+  <author>Валерия Княгинина</author>
+  <title>Магнитные бури в ноябре 2025 года: когда они будут и почему возникают? Как мощные вспышки на Солнце влияют на людей?</title>
+  <link>https://lenta.ru/articles/2025/10/31/magnitnye-buri-v-noyabre/</link>
+  <description>
+    <![CDATA[В октябре 2025 года на Земле произошли четыре магнитные бури. Их число повышено второй месяц подряд после спада в конце лета, сообщают в Институте космических исследований ИКИ РАН. «Лента.ру» рассказывает, в какие даты ноября ожидаются магнитные бури.]]>
+  </description>
+  <pubDate>Fri, 31 Oct 2025 17:51:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2024/10/30/11/20241030112622018/pic_d3475874b6a63d42d5b2cb2a44e2a297.jpg" type="image/jpeg" length="20545"/>
+  <category>Наука и техника</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/31/snitsya-kvartira-chto-eto-znachit/</guid>
+  <author>Александра Кравченко</author>
+  <title>Снится квартира — что это значит? Толкования сонников и мнение психолога</title>
+  <link>https://lenta.ru/articles/2025/10/31/snitsya-kvartira-chto-eto-znachit/</link>
+  <description>
+    <![CDATA[Во сне мозг перерабатывает накопленные за день эмоции и впечатления, превращая их в символические образы. Нередко людям снится жилье — например, собственная или чужая квартира. Разбираемся, как такой образ трактуют популярные сонники и что об этом думает доказательная психология.]]>
+  </description>
+  <pubDate>Fri, 31 Oct 2025 15:48:05 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2025/10/16/18/20251016182616593/pic_a2a0dca838b442f4d9b453ef64a9b242.jpg" type="image/jpeg" length="21684"/>
+  <category>Забота о себе</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/31/chto-nadet-na-novyy-god-2026/</guid>
+  <author>Юлия Анасян</author>
+  <title>Что надеть на Новый год — 2026? Модные образы и цвета, советы экспертов</title>
+  <link>https://lenta.ru/articles/2025/10/31/chto-nadet-na-novyy-god-2026/</link>
+  <description>
+    <![CDATA[Наступающий 2026-й — год Красной Огненной Лошади. Согласно восточной философии, Лошадь символизирует энергичность, активность и оптимизм. Ее стихия — огонь, а значит, и наряды нужно выбирать соответствующие — в красных оттенках. Какие еще цвета подойдут для встречи Нового года, рассказывает «Лента.ру».<br />]]>
+  </description>
+  <pubDate>Fri, 31 Oct 2025 15:47:53 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2025/10/22/17/20251022174442233/pic_20ff23971d55514d79a8808c5a5e0e0b.jpg" type="image/jpeg" length="30301"/>
+  <category>Ценности</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/31/assassin-s-creed-codename-hexe/</guid>
+  <author>Кирилл Юрьев</author>
+  <title>Что известно об игре Assassin's Creed: Codename Hexe: дата выхода, сюжет, геймплей</title>
+  <link>https://lenta.ru/articles/2025/10/31/assassin-s-creed-codename-hexe/</link>
+  <description>
+    <![CDATA[Assassin's Creed: Codename Hexe — 15-я игра о противостоянии ассасинов и тамплиеров. Франшиза делится на три периода и включает в себя 14 основных частей, а также ряд спин-оффов. «Лента.ру» рассказывает, что известно о новой игре серии Assassin's Creed: Codename Hexe: дата выхода, сюжет, геймплей.]]>
+  </description>
+  <pubDate>Fri, 31 Oct 2025 15:47:41 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2025/09/29/17/20250929174415773/pic_a13736b607d09c71ef7bdd5eb771893c.jpg" type="image/jpeg" length="24788"/>
+  <category>Наука и техника</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/31/otkrytki-den-narodnogo-edinstva/</guid>
+  <author>Нэлли Свердлова</author>
+  <title>Открытки с Днем народного единства: 30 картинок и поздравлений</title>
+  <link>https://lenta.ru/articles/2025/10/31/otkrytki-den-narodnogo-edinstva/</link>
+  <description>
+    <![CDATA[4 ноября россияне отмечают День народного единства. Этот праздник напоминает о сплоченности народа и дает в 2025 году три выходных подряд. «Лента.ру» подготовила красивые открытки с Днем народного единства, которые можно скачать бесплатно и отправить вместе с готовыми пожеланиями. ]]>
+  </description>
+  <pubDate>Fri, 31 Oct 2025 15:47:12 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2025/10/22/17/20251022175906407/pic_507147fa406d0edcda629eeac9ad077f.jpg" type="image/jpeg" length="33217"/>
+  <category>Из жизни</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/31/otkrytki-men-day/</guid>
+  <author>Нэлли Свердлова</author>
+  <title>Открытки со Всемирным днем мужчин: 40+ красивых картинок и поздравлений</title>
+  <link>https://lenta.ru/articles/2025/10/31/otkrytki-men-day/</link>
+  <description>
+    <![CDATA[В первую субботу ноября отмечают Всемирный день мужчин — в 2025 году он приходится на 1-е число. Поздравить можно любого знакомого мужчину. «Лента.ру» подготовила более 40 красивых картинок и поздравлений с Днем мужчин, которые можно скачать бесплатно и отправить в соцсетях и мессенджерах.]]>
+  </description>
+  <pubDate>Fri, 31 Oct 2025 15:46:56 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2025/10/21/15/20251021152630919/pic_ea71fb265f68c28466ac55db86c8ffd3.jpg" type="image/jpeg" length="28401"/>
+  <category>Из жизни</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/31/raspisanie-kanikul-v-2025-2026-uchebnom-godu/</guid>
+  <author>Ксения Басырова</author>
+  <title>Расписание каникул в 2025/2026 учебном году по триместрам и четвертям. Как будут отдыхать и учиться школьники?</title>
+  <link>https://lenta.ru/articles/2025/10/31/raspisanie-kanikul-v-2025-2026-uchebnom-godu/</link>
+  <description>
+    <![CDATA[Начался учебный год, а значит, школьники снова ждут каникул. При этом каждое учебное заведение вправе решить самостоятельно, в какие даты и как часто дети будут отдыхать. «Лента.ру» рассказывает, когда в 2025/2026 году будут каникулы для тех, кто учится по четвертям, триместрам и при гибридной системе.<br />]]>
+  </description>
+  <pubDate>Fri, 31 Oct 2025 14:06:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2025/09/02/11/20250902112311788/pic_dd56b47813fdb87e91dce26bdf27057e.jpg" type="image/jpeg" length="25175"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/31/10-idey-dlya-novogodnego-korporativa/</guid>
+  <author>Анастасия Заикина</author>
+  <title>Топ-10 идей для новогоднего корпоратива: как организовать и где провести праздник для коллег</title>
+  <link>https://lenta.ru/articles/2025/10/31/10-idey-dlya-novogodnego-korporativa/</link>
+  <description>
+    <![CDATA[Новогодний корпоратив — традиционное для многих компаний мероприятие в конце года, на котором в неформальной обстановке подводят итоги и отмечают достижения сотрудников. «Лента.ру» предлагает топ-10 идей — как организовать и где провести праздник с коллегами в честь наступающего 2025 года.]]>
+  </description>
+  <pubDate>Fri, 31 Oct 2025 13:56:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2024/11/21/14/20241121143912772/pic_492d5d3a40da99a3ec5b7ab296af205d.jpg" type="image/jpeg" length="31763"/>
+  <category>Из жизни</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/31/chto-podarit-malchiku-12-let-na-novyy-god/</guid>
+  <author>Оксана Чернышева</author>
+  <title>Что подарить мальчику 12 лет на Новый год-2026: 90+ идей</title>
+  <link>https://lenta.ru/articles/2025/10/31/chto-podarit-malchiku-12-let-na-novyy-god/</link>
+  <description>
+    <![CDATA[В преддверии Нового года по результатам исследования о популярных детских подарках родители чаще всего дарят мальчикам игрушечный транспорт, вертолеты и машины с радиоуправлением и строительные наборы. «Лента.ру» составила список оригинальных и недорогих вариантов для мальчиков 12 лет. ]]>
+  </description>
+  <pubDate>Fri, 31 Oct 2025 13:54:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2024/12/16/16/20241216162257546/pic_646448c342d337860d30c009c7ba0dc9.jpg" type="image/jpeg" length="37915"/>
+  <category>Забота о себе</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/31/chto-poprosit-v-podarok-na-novyy-god/</guid>
+  <author>Мария Ушакова</author>
+  <title>Что попросить в подарок на Новый год: 160 идей на любой вкус</title>
+  <link>https://lenta.ru/articles/2025/10/31/chto-poprosit-v-podarok-na-novyy-god/</link>
+  <description>
+    <![CDATA[Новый год — время чудес, волшебства и, конечно, подарков. Правда, обычно мы в первую очередь ищем презенты для наших близких, а про себя забываем и просим подарить что-то «на свой вкус». «Лента.ру» собрала идеи отличных и полезных подарков, которые можно попросить на Новый год.]]>
+  </description>
+  <pubDate>Fri, 31 Oct 2025 13:54:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2024/12/19/12/20241219121359797/pic_a96dde02d77dca453cdd665fee8eeff3.jpg" type="image/jpeg" length="35754"/>
+  <category>Забота о себе</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/31/tsifrovoy-rubl/</guid>
+  <author>Нина Рыкова</author>
+  <title>Что такое цифровой рубль простыми словами? Зачем он нужен и когда цифровым рублем можно будет пользоваться</title>
+  <link>https://lenta.ru/articles/2025/10/31/tsifrovoy-rubl/</link>
+  <description>
+    <![CDATA[С начала августа 2023 года в России легализовали цифровой рубль. Им можно расплатиться за товары и услуги, однако взять в цифровых рублях кредит или заем нельзя. «Лента.ру» рассказывает, чем цифровой рубль отличается от криптовалюты, можно ли его украсть и зачем он нужен.]]>
+  </description>
+  <pubDate>Fri, 31 Oct 2025 13:48:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/08/04/16/20230804162925541/pic_2c32441ae901f92a836fb4af7b45943a.jpg" type="image/jpeg" length="29113"/>
+  <category>Экономика</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/31/rossiyane-vybirayut-dolgosrochnye-nakopleniya/</guid>
+  <title>Россияне выбирают долгосрочные накопления. Почему это происходит?</title>
+  <link>https://lenta.ru/articles/2025/10/31/rossiyane-vybirayut-dolgosrochnye-nakopleniya/</link>
+  <description>
+    <![CDATA[По данным исследования Frank RG, за последние пять лет объем вкладов и накопительных счетов россиян почти удвоился и достиг 57,2 трлн рублей.]]>
+  </description>
+  <pubDate>Fri, 31 Oct 2025 13:37:13 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2025/10/31/12/20251031124043468/pic_2c52015d63fd094feec29c96550bfdc2.jpg" type="image/jpeg" length="27014"/>
+  <category>Экономика</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/31/chto-podarit-muzhchine-na-novyy-god/</guid>
+  <author>Юлия Анасян</author>
+  <title>Что подарить мужчине на Новый год-2026: 120 идей</title>
+  <link>https://lenta.ru/articles/2025/10/31/chto-podarit-muzhchine-na-novyy-god/</link>
+  <description>
+    <![CDATA[Согласно опросам, недовольных подарками на Новый год мужчин в полтора раза больше, чем женщин. «Лента.ру» рассказывает, как правильно выбрать презент, который понравится и не отправится в дальний угол шкафа, как ненужный. А также публикует подборку самых интересных подарков для мужчин на любой вкус.<br />]]>
+  </description>
+  <pubDate>Fri, 31 Oct 2025 13:35:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2024/12/23/15/20241223151403579/pic_434991a48c3d48e672bb5d56c77b94bb.jpg" type="image/jpeg" length="27244"/>
+  <category>Забота о себе</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/31/20-novogodnih-igr-i-konkursov-dlya-detey-i-vzroslyh/</guid>
+  <author>Ксения Дорофеева</author>
+  <title>20+ новогодних игр для детей и взрослых: застольные, смешные, дома и на свежем воздухе</title>
+  <link>https://lenta.ru/articles/2025/10/31/20-novogodnih-igr-i-konkursov-dlya-detey-i-vzroslyh/</link>
+  <description>
+    <![CDATA[Новый год — это не только раздача подарков и вкусный праздничный стол, но еще и праздник, который можно провести с семьей, родными и друзьями. И чтобы эта ночь точно запомнилось, нужно организовать досуг — игры и конкурсы. «Лента.ру» рассказывает, как весело и душевно встретить Новый год в компании.<br />]]>
+  </description>
+  <pubDate>Fri, 31 Oct 2025 13:24:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2024/12/19/17/20241219171459075/pic_57ab792e7188e9282d7793161004279a.jpg" type="image/jpeg" length="31305"/>
+  <category>Из жизни</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/31/novogodnie-podarki-dlya-devochki-12-let/</guid>
+  <author>Мария Ушакова</author>
+  <title>Что подарить на Новый год-2026 девочке 12 лет: 70+ необычных идей на любой кошелек</title>
+  <link>https://lenta.ru/articles/2025/10/31/novogodnie-podarki-dlya-devochki-12-let/</link>
+  <description>
+    <![CDATA[Выбрать новогодний подарок девочке 12 лет — не самая простая задача. Этот возраст — время, когда интересы начинают меняться: игрушки отходят на второй план, а подростковые увлечения только начинают формироваться. «Лента.ру» собрала 70 оригинальных и интересных идей подарков.]]>
+  </description>
+  <pubDate>Fri, 31 Oct 2025 13:21:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2024/12/13/11/20241213114348827/pic_132feae6dcdb8f019cbd0e6cfe90b53b.jpg" type="image/jpeg" length="42443"/>
+  <category>Забота о себе</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/31/chto-podarit-na-novyy-god-devochke-11-let/</guid>
+  <author>Мария Васильева</author>
+  <title>Что подарить на Новый год-2026 девочке 11 лет: 90 идей</title>
+  <link>https://lenta.ru/articles/2025/10/31/chto-podarit-na-novyy-god-devochke-11-let/</link>
+  <description>
+    <![CDATA[Новогодние подарки для детей — не просто материальные объекты: это символы заботы и внимания, которые укрепляют эмоциональные связи в семье. «Лента.ру» рассказывает, что подарить на Новый год девочке 11 лет, чтобы ее праздник был по-настоящему волшебным, а что покупать точно не стоит.<br />]]>
+  </description>
+  <pubDate>Fri, 31 Oct 2025 12:13:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2024/12/16/15/20241216151107671/pic_93cda723873283661d73550d7eefa4ec.jpg" type="image/jpeg" length="36093"/>
+  <category>Забота о себе</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/31/chto-podarit-devochke-10-let-na-novyy-god/</guid>
+  <author>Оксана Чернышева</author>
+  <title>Что подарить девочке 10 лет на Новый год-2026: 60+ идей для новогодних подарков</title>
+  <link>https://lenta.ru/articles/2025/10/31/chto-podarit-devochke-10-let-na-novyy-god/</link>
+  <description>
+    <![CDATA[По результатам исследования, девочкам на Новый год чаще всего дарят кукол, мягкие игрушки, наборы для творчества и экспериментов. А что еще можно подарить девочкам десяти лет? На что обратить внимание при выборе подарка? «Лента.ру» проконсультировалась с психологом и сделала подборку оригинальных идей.]]>
+  </description>
+  <pubDate>Fri, 31 Oct 2025 11:57:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2024/12/16/14/20241216141955047/pic_253453a9bf8cc0263404376d2adbac3a.jpg" type="image/jpeg" length="34294"/>
+  <category>Забота о себе</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/31/chto-podarit-malchiku-10-let-na-novyy-god/</guid>
+  <author>Екатерина Керсипова</author>
+  <title>Что подарить мальчику 10 лет на Новый год — 2026: 50+ идей подарков ребенку</title>
+  <link>https://lenta.ru/articles/2025/10/31/chto-podarit-malchiku-10-let-na-novyy-god/</link>
+  <description>
+    <![CDATA[Выбрать подарок для мальчика 10 лет на Новый год может быть нелегко. Множество игрушек ваш сын, внук или племянник уже «перерос» — они перестали быть интересны, а подростковые увлечения пока еще не близки. «Лента.ру» предлагает более 50 вариантов презентов, которые можно положить под елку младшекласснику.]]>
+  </description>
+  <pubDate>Fri, 31 Oct 2025 11:43:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2024/12/27/13/20241227135651070/pic_6e30be1aca7f94a9299d13cd6e19fdad.jpg" type="image/jpeg" length="26973"/>
+  <category>Забота о себе</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/31/chto-podarit-na-novyy-god-malchiku-8-let/</guid>
+  <author>Анастасия Заикина</author>
+  <title>Что подарить на Новый год-2026 мальчику 8 лет: 50 идей презента для ребенка</title>
+  <link>https://lenta.ru/articles/2025/10/31/chto-podarit-na-novyy-god-malchiku-8-let/</link>
+  <description>
+    <![CDATA[Новый год — долгожданный праздник для всех детей. Более 70 процентов российских родителей делают все возможное, чтобы ребенок как можно дольше верил в Деда Мороза. «Лента.ру» рассказывает, как сделать, чтобы в мешке от волшебника оказались подходящие подарки. В этой подборке — варианты для мальчика 8 лет.]]>
+  </description>
+  <pubDate>Fri, 31 Oct 2025 11:42:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2024/12/17/12/20241217122935433/pic_1b86d77e7855c97808d87a902529146d.jpg" type="image/jpeg" length="27623"/>
+  <category>Забота о себе</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/31/lunnyy-kalendar-na-mart-2026-goda/</guid>
+  <author>Екатерина Шатская</author>
+  <title>Лунный календарь на март 2026 года: фазы Луны, даты новолуния и полнолуния</title>
+  <link>https://lenta.ru/articles/2025/10/31/lunnyy-kalendar-na-mart-2026-goda/</link>
+  <description>
+    <![CDATA[Лунный календарь — это многовековой инструмент, который помогает планировать садовые работы и бытовые дела. Считается, что фазы Луны влияют на всхожесть и рост растений. «Лента.ру» публикует лунный календарь на март 2026 года и рассказывает, как спланировать посадки в этот период.]]>
+  </description>
+  <pubDate>Fri, 31 Oct 2025 09:16:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2025/02/21/10/20250221103733220/pic_c925d04d0ba1e721b30bb72e6c33e4bc.jpg" type="image/jpeg" length="7415"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/31/proizvodstvennyy-kalendar-na-mart/</guid>
+  <author>Алексей Хвостов</author>
+  <title>Выходные и праздники в марте 2026 года: официальный календарь </title>
+  <link>https://lenta.ru/articles/2025/10/31/proizvodstvennyy-kalendar-na-mart/</link>
+  <description>
+    <![CDATA[В марте 2026 года россияне отмечают Международный женский день, это государственный праздник. В этом году 8 Марта выпадает на воскресенье, так что дополнительный выходной перенесли на понедельник. Сколько всего выходных и праздничных дней будет у россиян, какие еще праздники отмечаются в марте, рассказывает «Лента.ру».]]>
+  </description>
+  <pubDate>Fri, 31 Oct 2025 09:15:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2024/02/13/11/20240213115400362/pic_e9f2e6dc5b706c5d035733a68ab073f0.jpg" type="image/jpeg" length="18220"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/31/lunnyy-kalendar-dlya-sadovodov-na-mart/</guid>
+  <author>Галина Васильева</author>
+  <title>Лунный календарь для садоводов на март 2026 года. Когда и что сажать, таблица благоприятных дней</title>
+  <link>https://lenta.ru/articles/2025/10/31/lunnyy-kalendar-dlya-sadovodov-na-mart/</link>
+  <description>
+    <![CDATA[Март — месяц начала активных работ на садовом участке. Пока еще окончательно не растаял снег, дачникам нужно успеть обработать деревья и кусты от вредителей, прибраться в огороде, заготовить рассаду и черенки. «Лента.ру» рассказывает, что и когда рекомендуется делать садоводам в марте 2026 года.]]>
+  </description>
+  <pubDate>Fri, 31 Oct 2025 09:14:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2025/03/04/18/20250304181943945/pic_742a0daa3a2d6e594008c76cd22e4dcf.jpg" type="image/jpeg" length="47250"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/31/pravoslavnye-prazdniki-v-marte/</guid>
+  <author>Ирина Майская</author>
+  <title>Православные праздники в марте 2026 года: церковный календарь</title>
+  <link>https://lenta.ru/articles/2025/10/31/pravoslavnye-prazdniki-v-marte/</link>
+  <description>
+    <![CDATA[Весь март 2026 года православные христиане соблюдают Великий пост, самый важный из всех постов, который предшествует Пасхе. О том, какие еще события отмечают верующие в этот период, — в материале «Ленты.ру».]]>
+  </description>
+  <pubDate>Fri, 31 Oct 2025 09:13:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2024/02/15/16/20240215163418172/pic_476e9b03402713e77299604ab4fce76d.jpg" type="image/jpeg" length="59146"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/31/kuda-poehat-v-marte/</guid>
+  <author>Мария Васильева</author>
+  <title>Куда поехать в марте 2026 года? Отдых в России, за границей, в горах и на море</title>
+  <link>https://lenta.ru/articles/2025/10/31/kuda-poehat-v-marte/</link>
+  <description>
+    <![CDATA[Март — отличный месяц для отпуска: доступен и пляжный, и горнолыжный отдых, можно поехать за достопримечательностями и по России, и за рубеж. «Лента.ру» рассказывает, куда комфортно отправиться в марте 2026 года, какими будут цены на туры в начале весны и какие направления наиболее выгодны и интересны.]]>
+  </description>
+  <pubDate>Fri, 31 Oct 2025 09:12:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2024/02/08/17/20240208171312507/pic_95e5c8fb8e69613dc6f6db768e3044ec.jpg" type="image/jpeg" length="40362"/>
+  <category>Путешествия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/31/pozdravleniya-s-prazdnikom-uraza-bayram/</guid>
+  <author>Константин Николaев</author>
+  <title>Поздравления с праздником Ураза-байрам в 2026 году. Красивые слова и пожелания для открыток</title>
+  <link>https://lenta.ru/articles/2025/10/31/pozdravleniya-s-prazdnikom-uraza-bayram/</link>
+  <description>
+    <![CDATA[В марте 2026 года мусульмане всего мира отмечают один из главных исламских праздников — Ураза-байрам (Ид аль-Фитр, или Праздник разговения). «Лента.ру» рассказывает, когда празднуют Ураза-байрам в 2026 году, и приводит топ-20 коротких и длинных поздравлений мусульман в стихах и прозе.]]>
+  </description>
+  <pubDate>Fri, 31 Oct 2025 09:12:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2025/02/22/11/20250222115700810/pic_163267b5f37954f831e7c45ff6d1f7f0.jpg" type="image/jpeg" length="24691"/>
+  <category>Из жизни</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/31/otkrytki-uraza-bayram/</guid>
+  <title>Открытки на Ураза-байрам: красивые картинки, чтобы поздравить с праздником в 2026 году</title>
+  <link>https://lenta.ru/articles/2025/10/31/otkrytki-uraza-bayram/</link>
+  <description>
+    <![CDATA[Ураза-байрам считается одним из самых важных исламских праздников. Верующие мусульмане участвуют в коллективной молитве и праздничных мероприятиях. В 2026 году он выпадает на 20 марта. «Лента.ру» подготовила набор красивых открыток на Ураза-байрам, которые можно скачать и отправить в мессенджере и соцсетях.]]>
+  </description>
+  <pubDate>Fri, 31 Oct 2025 09:10:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2025/03/12/18/20250312184812763/pic_8e959a5ee114ff82afd170135d8646ce.jpg" type="image/jpeg" length="32934"/>
+  <category>Из жизни</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/31/aleksandrov-den-istoriya-traditsii-i-primety/</guid>
+  <author>Екатерина Керсипова</author>
+  <title>Александров день: история, традиции и приметы. Почему праздник называют «Лесное ухоженье»?</title>
+  <link>https://lenta.ru/articles/2025/10/31/aleksandrov-den-istoriya-traditsii-i-primety/</link>
+  <description>
+    <![CDATA[28 марта 2026 года православные христиане отмечают Александров день, вспоминая о трех святых Александрах. В народе же прижилось другое название праздника — «Лесное ухоженье». «Лента.ру» рассказывает об истории и традициях этого дня, а также о правилах и обычаях, которые с ним связаны. ]]>
+  </description>
+  <pubDate>Fri, 31 Oct 2025 09:09:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2024/03/11/19/20240311195314177/pic_82fe7d6781cb9b925846f9ecfba22179.jpg" type="image/jpeg" length="39357"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/31/vsemirnyy-den-teatra/</guid>
+  <author>Ася Панина</author>
+  <title>Всемирный день театра: дата, история, традиции</title>
+  <link>https://lenta.ru/articles/2025/10/31/vsemirnyy-den-teatra/</link>
+  <description>
+    <![CDATA[Международный день театра ежегодно отмечается в конце марта. В этот день поздравления принимают деятели искусства и сотрудники театров. «Лента.ру» выяснила, когда появился этот праздник, как его отмечают в России и мире и какие традиции принято соблюдать в этот день.<br />]]>
+  </description>
+  <pubDate>Fri, 31 Oct 2025 09:08:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2024/03/15/18/20240315183312325/pic_5157dc706d195b4a9514058ec44473ca.jpg" type="image/jpeg" length="29009"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/31/den-rabotnika-kultury/</guid>
+  <author>Ксения Басырова</author>
+  <title>День работника культуры в 2026 году: дата, история, традиции праздника, душевные поздравления</title>
+  <link>https://lenta.ru/articles/2025/10/31/den-rabotnika-kultury/</link>
+  <description>
+    <![CDATA[День работника культуры отмечается в России ежегодно 25 марта. Представители власти традиционно награждают выдающихся деятелей культуры. Кроме того, в музеях, театрах и других учреждениях проходят дни открытых дверей и праздничные концерты. Подробнее о торжестве и его традициях — в материале «Ленты.ру».<br />]]>
+  </description>
+  <pubDate>Fri, 31 Oct 2025 09:08:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2024/03/19/19/20240319193034143/pic_cc0abf9f2ea5ea9a5ce80a6237b33a6c.jpg" type="image/jpeg" length="25552"/>
+  <category>Культура</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/31/verbnoe-voskresenie/</guid>
+  <author>Ксения Дорофеева</author>
+  <title>Вербное воскресенье в 2026 году: дата, история и традиции церковного праздника</title>
+  <link>https://lenta.ru/articles/2025/10/31/verbnoe-voskresenie/</link>
+  <description>
+    <![CDATA[Вербное воскресенье в 2026 году выпадает на 5 апреля. Этот праздник всегда отмечают ровно за неделю до Пасхи, которая в этот раз будет 12 апреля. В Вербное воскресенье принято посещать торжественную службу и освящать веточки вербы в храмах. Историю праздника, его обычаи и традиции рассказывает «Лента.ру».<br />]]>
+  </description>
+  <pubDate>Fri, 31 Oct 2025 09:07:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2024/02/19/19/20240219190315595/pic_94fd70cd77bc35fe8ad7d91f765aac4a.jpg" type="image/jpeg" length="27886"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/31/chas-zemli-v-2026-godu/</guid>
+  <author>Ксения Басырова</author>
+  <title>Акция «Час Земли» в 2026 году: дата и время, суть, история и традиции</title>
+  <link>https://lenta.ru/articles/2025/10/31/chas-zemli-v-2026-godu/</link>
+  <description>
+    <![CDATA[В 2026 году акция «Час Земли» пройдет 28 марта в 20:30 по местному времени. В ней могут принять участие все желающие: нужно на час отключить свет и электроприборы. Так можно выразить свою озабоченность проблемами экологии Земли. Подробнее об акции «Час Земли» — в материале «Ленты.ру».]]>
+  </description>
+  <pubDate>Fri, 31 Oct 2025 09:06:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2024/03/15/11/20240315111444090/pic_a72e52fe82d5e810cc2251b61b9328ce.jpg" type="image/jpeg" length="23851"/>
+  <category>Экономика</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/31/den-vesennego-ravnodenstviya/</guid>
+  <author>Ирина Майская</author>
+  <title>День весеннего равноденствия в 2026 году. Какого числа, суть, традиции</title>
+  <link>https://lenta.ru/articles/2025/10/31/den-vesennego-ravnodenstviya/</link>
+  <description>
+    <![CDATA[Во многих культурах день весеннего равноденствия отмечают как праздник весны и начала нового года. «Лента.ру» выяснила, что такое равноденствие с точки зрения астрономии, почему древние придавали ему такую большую роль и как праздник равноденствия отмечают сегодня по всему миру.]]>
+  </description>
+  <pubDate>Fri, 31 Oct 2025 09:05:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2024/01/31/16/20240131160011826/pic_a110a64c833d2c70704d5a44c5da9c5f.jpg" type="image/jpeg" length="25772"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/31/vsemirnyy-den-poezii/</guid>
+  <author>Екатерина Керсипова</author>
+  <title>Всемирный день поэзии в 2026 году: дата, история и традиции праздника</title>
+  <link>https://lenta.ru/articles/2025/10/31/vsemirnyy-den-poezii/</link>
+  <description>
+    <![CDATA[Почти треть россиян когда-либо писали стихи, а 9 процентов продолжают делать это и по сей день. Не каждый поэт становится известным, но ничто не мешает стихотворцам считать Всемирный день поэзии отчасти и своим праздником. «Лента.ру» рассказывает об истории и традициях Дня поэзии, советует, как можно поздравить поэта.]]>
+  </description>
+  <pubDate>Fri, 31 Oct 2025 09:05:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2025/02/21/13/20250221130041966/pic_30fcc95c45708f00e1c5737008d4c22e.jpg" type="image/jpeg" length="30891"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/31/navruz/</guid>
+  <author>Константин Николaев</author>
+  <title>Навруз в 2026 году: дата, история и традиции праздника</title>
+  <link>https://lenta.ru/articles/2025/10/31/navruz/</link>
+  <description>
+    <![CDATA[Навруз — день весеннего равноденствия, который тюрко- и ираноязычные народы отмечают с древности и до сих пор. От Турции до Афганистана и Северного Китая, а также во многих регионах России Навруз празднуют с большим размахом. «Лента.ру» рассказывает об истории и традициях любимого праздника многих людей.]]>
+  </description>
+  <pubDate>Fri, 31 Oct 2025 09:04:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2025/02/10/18/20250210180025534/pic_fcce61d504d902d957f7e18b47b9d524.jpg" type="image/jpeg" length="48573"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/31/velikiy-ponedelnik/</guid>
+  <author>Екатерина Керсипова</author>
+  <title>Великий понедельник 2026: первый день Страстной седмицы История, традиции и обычаи праздника</title>
+  <link>https://lenta.ru/articles/2025/10/31/velikiy-ponedelnik/</link>
+  <description>
+    <![CDATA[Великий понедельник в 2026 году выпадает на 6 апреля. Это первый день Страстной недели, которая предшествует Пасхе. «Лента.ру» рассказывает почему этот день также называют Чистым понедельником, какие легенды и традиции связаны с праздником, а также в какие приметы верили наши предки.]]>
+  </description>
+  <pubDate>Fri, 31 Oct 2025 09:03:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2024/02/22/15/20240222154039415/pic_b936ff6964e833a6b56599b3f05f2cc5.jpg" type="image/jpeg" length="17264"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/31/den-svyatogo-patrika/</guid>
+  <author>Мария Ушакова</author>
+  <title>День святого Патрика: что за праздник, когда и как отмечать, история и традиции</title>
+  <link>https://lenta.ru/articles/2025/10/31/den-svyatogo-patrika/</link>
+  <description>
+    <![CDATA[17 марта в Ирландии и многих других странах отмечают День святого Патрика. Праздник появился несколько веков назад, но современные традиции сформировались совсем недавно. «Лента.ру» рассказывает, кем на самом деле был Патрик и почему он так полюбился людям по всему миру.]]>
+  </description>
+  <pubDate>Fri, 31 Oct 2025 09:02:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2024/02/13/12/20240213121726262/pic_cf8c7e29bbca17b6f8223b1951e7de84.jpg" type="image/jpeg" length="38753"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/31/proschenoe-voskresenie/</guid>
+  <author>Эмилия Воробьева</author>
+  <title>Прощеное воскресенье 2026: дата, суть и традиции праздника</title>
+  <link>https://lenta.ru/articles/2025/10/31/proschenoe-voskresenie/</link>
+  <description>
+    <![CDATA[Последнее воскресенье перед Великим постом принято называть Прощеным воскресеньем, в 2026 году этот день приходится на 22 февраля. Как связаны православная традиция и народный праздник Масленицы? Что нужно делать накануне Великого поста? Рассказываем в материале «Ленты.ру».]]>
+  </description>
+  <pubDate>Fri, 31 Oct 2025 09:02:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2024/02/14/11/20240214114125312/pic_d764479462f738d11e81e11c568ad168.jpg" type="image/jpeg" length="28788"/>
+  <category>Из жизни</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/31/ramadan/</guid>
+  <author>Нина Рыкова</author>
+  <title>Начало и конец Рамадана в 2026 году. Сухур, ифтар и намаз во время Рамадана</title>
+  <link>https://lenta.ru/articles/2025/10/31/ramadan/</link>
+  <description>
+    <![CDATA[Рамадан — это священный месяц для мусульман. В это время верующие держат строгий пост, полностью отказываясь от еды и воды в светлое время суток. В 2026 году Рамадан продлится с 18 февраля по 19 марта. «Лента.ру» рассказывает, что можно и нельзя делать в эти дни, а также публикует расписание сухура, ифтара и намаза.]]>
+  </description>
+  <pubDate>Fri, 31 Oct 2025 09:01:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/08/09/16/20230809162345614/pic_42bfb5c302eaafcbd811b50be4225941.jpg" type="image/jpeg" length="31056"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/31/otkrytki-na-8-marta/</guid>
+  <title>Открытки с 8 Марта: красивые картинки, чтобы поздравить с Международным женским днем</title>
+  <link>https://lenta.ru/articles/2025/10/31/otkrytki-na-8-marta/</link>
+  <description>
+    <![CDATA[С Международным женским днем лучше поздравлять лично, но если возможности поговорить лицом к лицу или по телефону нет, хороший вариант — прислать электронную открытку. «Лента.ру» делится поздравительными картинками на 8 марта, а также рассказывает, как сделать открытки своими руками. ]]>
+  </description>
+  <pubDate>Fri, 31 Oct 2025 09:00:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2025/02/04/18/20250204181913421/pic_43af0b03782434f80d3e5d05d349ec54.jpg" type="image/jpeg" length="22634"/>
+  <category>Из жизни</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/03/07/lunnoe-zatmenie-v-marte-2025/</guid>
+  <author>Анна Луговая</author>
+  <title>Лунное затмение в марте 2026 года: когда и где можно будет увидеть</title>
+  <link>https://lenta.ru/articles/2025/03/07/lunnoe-zatmenie-v-marte-2025/</link>
+  <description>
+    <![CDATA[Некоторые астрономические явления доступны для наблюдения без приборов. Например, солнечные и лунные затмения, которые происходят несколько раз в год. Ближайшее затмение, которое случится в марте 2026 года, — лунное. Когда оно произойдет и где его можно будет наблюдать — рассказывает «Лента.ру».]]>
+  </description>
+  <pubDate>Fri, 31 Oct 2025 09:00:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2025/02/20/14/20250220144528938/pic_77f6890cf931b153ba5f22833ee8cede.jpg" type="image/jpeg" length="17563"/>
+  <category>Наука и техника</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/31/velikiy-post/</guid>
+  <author>Юлия Козинцева</author>
+  <title>Великий пост в 2026 году: даты, суть, правила питания по дням</title>
+  <link>https://lenta.ru/articles/2025/10/31/velikiy-post/</link>
+  <description>
+    <![CDATA[В феврале 2026 года для православных верующих начинается Великий пост, предшествующий главному празднику — Пасхе. «Лента.ру» выяснила, какие ограничения верующие соблюдают в это время и как правильно выйти из поста, когда Церковь учредила посты и почему Великий пост длится именно семь недель.]]>
+  </description>
+  <pubDate>Fri, 31 Oct 2025 08:58:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2024/01/31/13/20240131132437951/pic_4c18292dcde9e8c7c3e1d1407db91a64.jpg" type="image/jpeg" length="29489"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/31/8marta/</guid>
+  <author>Ирина Майская</author>
+  <title>Международный женский день: история и традиции праздника. Как 8 Марта отмечают в России и по всему миру</title>
+  <link>https://lenta.ru/articles/2025/10/31/8marta/</link>
+  <description>
+    <![CDATA[В сознании людей 8 Марта неразрывно связано с Международным женским днем. Однако на самом деле смысл этого торжества намного глубже: в первую очередь праздник был установлен как день борьбы за права женщин. «Лента.ру» рассказывает, когда начали праздновать этот день и как его отмечают в России и мире.]]>
+  </description>
+  <pubDate>Fri, 31 Oct 2025 08:58:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2024/02/09/16/20240209162053262/pic_31200eea1cb5a23d2de5cad720276fd5.jpg" type="image/jpeg" length="30731"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/31/den-koshek/</guid>
+  <author>Юлия Анасян</author>
+  <title>День кошек в 2026 году в России: дата, история и суть праздника</title>
+  <link>https://lenta.ru/articles/2025/10/31/den-koshek/</link>
+  <description>
+    <![CDATA[Кошки входят в число самых популярных домашних животных. Неудивительно, что этим питомцам посвящен отдельный (хоть и не официальный) праздник — его отмечают любители пушистых питомцев по всему миру. «Лента.ру» рассказывает об истории и традициях Дня кошек, а также публикует интересные факты о самих животных.<br />]]>
+  </description>
+  <pubDate>Fri, 31 Oct 2025 08:57:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2025/02/17/18/20250217180239546/pic_bc4cb6b48595e10afe55d50740c065b0.jpg" type="image/jpeg" length="21504"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/31/maniac/</guid>
+  <author>Олеся Мицкевич</author>
+  <title>«Убить человека совсем не страшно» Россиянин увлекся ядами и испытывал их на близких. Как разоблачили ярославского отравителя?</title>
+  <link>https://lenta.ru/articles/2025/10/31/maniac/</link>
+  <description>
+    <![CDATA[]]>
+  </description>
+  <pubDate>Fri, 31 Oct 2025 00:01:20 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2025/10/27/23/20251027231240045/pic_09f1dcd31a372e414502a3efd5444d2c.jpg" type="image/jpeg" length="24603"/>
+  <category>Силовые структуры</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/31/frunze/</guid>
+  <author>Дмитрий Окунев</author>
+  <title>«Предчувствие угнетало» Внезапная смерть победителя белой армии Фрунзе — одна из главных тайн СССР. Почему в этом обвиняли Сталина?</title>
+  <link>https://lenta.ru/articles/2025/10/31/frunze/</link>
+  <description>
+    <![CDATA[]]>
+  </description>
+  <pubDate>Fri, 31 Oct 2025 00:01:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2025/10/28/15/20251028154830499/pic_12ad471515e8d528fc04cd84626ef928.jpg" type="image/jpeg" length="30753"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/30/luchshie-filmy-2025-goda/</guid>
+  <author>Эдуард Юсупов</author>
+  <title>Лучшие фильмы 2025 года: топ-15 зарубежных картин, которые стоит посмотреть</title>
+  <link>https://lenta.ru/articles/2025/10/30/luchshie-filmy-2025-goda/</link>
+  <description>
+    <![CDATA[В 2025 году на экраны вышло много запоминающихся картин разных жанров: от черных комедий до эффектных криминальных боевиков. «Лента.ру» публикует список лучших зарубежных фильмов 2025 года, без спойлеров рассказывает об их сюжетах и объясняет, почему эти картины точно стоит увидеть.]]>
+  </description>
+  <pubDate>Thu, 30 Oct 2025 19:15:27 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2025/10/29/16/20251029163904535/pic_23f244da6f1183dd44cb2e61a38be8fd.jpg" type="image/jpeg" length="24335"/>
+  <category>Культура</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/30/kak-perenesti-dannye-s-iphone-na-android/</guid>
+  <author>Анна Минеева</author>
+  <title>Как перенести данные с iPhone на Android: 13 способов</title>
+  <link>https://lenta.ru/articles/2025/10/30/kak-perenesti-dannye-s-iphone-na-android/</link>
+  <description>
+    <![CDATA[При переходе с айфона на андроид полностью скопировать все данные со старого телефона проблематично. Но можно перенести основные — фотографии, видео, контакты, заметки и даже переписки — с помощью официальных сервисов и сторонних приложений. Как это сделать, читайте в материале «Ленты.ру».]]>
+  </description>
+  <pubDate>Thu, 30 Oct 2025 19:15:15 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2025/10/23/12/20251023123932480/pic_a78299aaa3706ac9712a664525f85dcf.jpg" type="image/jpeg" length="21905"/>
+  <category>Наука и техника</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/30/makiyazh-na-novyy-god-2026/</guid>
+  <author>Юлия Анасян</author>
+  <title>Макияж на Новый год 2026: идеи, советы и модные тренды</title>
+  <link>https://lenta.ru/articles/2025/10/30/makiyazh-na-novyy-god-2026/</link>
+  <description>
+    <![CDATA[Праздничный макияж — ключевой элемент новогоднего образа. Сделать его легко, если заранее выбрать акцент и определиться с палитрой, которая гармонирует с нарядом и внешностью. «Лента.ру» рассказывает, каким должен быть макияж на Новый 2026 год и как выбрать подходящие оттенки.<br />]]>
+  </description>
+  <pubDate>Thu, 30 Oct 2025 19:14:26 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2025/10/20/16/20251020162647243/pic_6d729518549534397dbeb8117eb5eeb8.jpg" type="image/jpeg" length="24217"/>
+  <category>Ценности</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/30/overshering/</guid>
+  <author>Юлия Хриптан</author>
+  <title>Что такое овершеринг: почему люди делятся слишком личными подробностями своей жизни</title>
+  <link>https://lenta.ru/articles/2025/10/30/overshering/</link>
+  <description>
+    <![CDATA[Те, кто публикует три и более совместных селфи в неделю, ощущают себя менее счастливыми, чем те, кто хранит подробности отношений в тайне. Эта статистика иллюстрирует феномен овершеринга — навязчивую потребность делиться личной информацией. Почему она возникает и чем опасна — в материале «Ленты.ру».]]>
+  </description>
+  <pubDate>Thu, 30 Oct 2025 19:14:13 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2025/10/21/16/20251021163207447/pic_e8d8273f84e4f20e8f7b26cc84d6748f.jpg" type="image/jpeg" length="19106"/>
+  <category>Забота о себе</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/30/18-18-na-chasah/</guid>
+  <author>Мария Жилякова</author>
+  <title>Время 18:18 на часах: значение цифр в ангельской нумерологии</title>
+  <link>https://lenta.ru/articles/2025/10/30/18-18-na-chasah/</link>
+  <description>
+    <![CDATA[Люди склонны искать смысл в случайностях — например, в повторяющихся цифрах на часах. И у этого явления даже есть название — ангельская нумерология. Рассказываем подробнее об этом феномене и объясняем, что, согласно этой теории, означает сочетание «18:18».]]>
+  </description>
+  <pubDate>Thu, 30 Oct 2025 19:14:01 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2025/10/07/15/20251007154305952/pic_f596988a67b9434c98ca52c30d526c7a.jpg" type="image/jpeg" length="22770"/>
+  <category>Из жизни</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/30/uprazhneniya-na-myshtsy-shei-dlya-doma-i-zala/</guid>
+  <author>Екатерина Шатская</author>
+  <title>8 лучших упражнений на мышцы шеи для дома и зала: пошаговая инструкция и советы тренера</title>
+  <link>https://lenta.ru/articles/2025/10/30/uprazhneniya-na-myshtsy-shei-dlya-doma-i-zala/</link>
+  <description>
+    <![CDATA[Боли в шее и чувство скованности — одни из самых частых жалоб людей, проводящих много времени за компьютером.  Но крепкие мышцы шеи важны не только для избавления от этого дискомфорта, но и для формирования правильной осанки и снижения риска травм. «Лента.ру» рассказывает, как безопасно и эффективно тренировать шею.]]>
+  </description>
+  <pubDate>Thu, 30 Oct 2025 19:13:49 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2025/10/20/13/20251020135359642/pic_bb008815bad1a1022a9ce8fa7438a612.jpg" type="image/jpeg" length="20846"/>
+  <category>Спорт</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/30/idei-podarkov-detyam-v-shkolu-na-novyy-god/</guid>
+  <author>Оксана Чернышева</author>
+  <title>Что подарить детям в школе на Новый год-2026: 110 идей для мальчиков и девочек</title>
+  <link>https://lenta.ru/articles/2025/10/30/idei-podarkov-detyam-v-shkolu-na-novyy-god/</link>
+  <description>
+    <![CDATA[Выбор новогоднего подарка для всего класса — задача со множеством переменных: нужно учесть возраст, интересы и, что немаловажно, бюджет. Чтобы помочь родителям и учителям, «Лента.ру» собрала 110 проверенных идей — от сладких наборов и творческих комплектов до научных приборов.]]>
+  </description>
+  <pubDate>Thu, 30 Oct 2025 19:12:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2024/12/03/20/20241203203122080/pic_71974af0335d091095d5de1b8561f1a8.jpg" type="image/jpeg" length="32880"/>
+  <category>Из жизни</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/30/goryachie-blyuda-na-novyy-god/</guid>
+  <author>Константин Николaев</author>
+  <title>Горячие блюда на Новый 2026 год: пошаговые рецепты с фото, советы поваров</title>
+  <link>https://lenta.ru/articles/2025/10/30/goryachie-blyuda-na-novyy-god/</link>
+  <description>
+    <![CDATA[Празднование Нового года и Рождества в России не обойдется без традиционных оливье и селедки под шубой. Но что подать на горячее? «Лента.ру» опросила российских и иностранных поваров и знатоков национальных кухонь и собрала интересные рецепты, по которым можно приготовить основные блюда для новогодних застолий — 2026.]]>
+  </description>
+  <pubDate>Thu, 30 Oct 2025 19:06:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2024/11/28/16/20241128162356676/pic_46b81540aba848978abe9b7c69605978.jpg" type="image/jpeg" length="35240"/>
+  <category>Из жизни</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/30/tartaletki-na-novyy-god/</guid>
+  <author>Екатерина Керсипова</author>
+  <title>Тарталетки на Новый год: лучшие пошаговые рецепты, самые вкусные начинки, идеи сервировки</title>
+  <link>https://lenta.ru/articles/2025/10/30/tartaletki-na-novyy-god/</link>
+  <description>
+    <![CDATA[Тарталетки — одна из наиболее популярных закусок на праздничных застольях. Это выгодно — можно предложить гостям сразу несколько вариантов начинки. Это красиво — маленькие корзинки безупречно выглядят. Ну и, конечно, их удобно есть. «Лента.ру» рассказывает, как приготовить тарталетки для новогоднего стола.]]>
+  </description>
+  <pubDate>Thu, 30 Oct 2025 19:04:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2024/11/21/16/20241121165419204/pic_b51e468b30196fd795fc3e7c8b86a869.jpg" type="image/jpeg" length="31226"/>
+  <category>Из жизни</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/30/chto-podarit-semeynoy-pare-na-novyy-god/</guid>
+  <author>Валерия Княгинина</author>
+  <title>Что подарить семейной паре на Новый год в 2026 году: 90 идей подарков и поздравлений</title>
+  <link>https://lenta.ru/articles/2025/10/30/chto-podarit-semeynoy-pare-na-novyy-god/</link>
+  <description>
+    <![CDATA[Выбор подарка на Новый год для женатых друзей или родных — сложная задача. И все же найти идеальный презент, который понравится сразу обоим, возможно. «Лента.ру» публикует интересные идеи новогодних подарков для семейной пары, а также предлагает варианты поздравлений, которые можно написать на открытке.]]>
+  </description>
+  <pubDate>Thu, 30 Oct 2025 19:02:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2024/11/20/18/20241120183700512/pic_ccb6ea8a855b9085d870d975bb99b218.jpg" type="image/jpeg" length="21861"/>
+  <category>Из жизни</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/30/chto-podarit-na-novyy-god/</guid>
+  <author>Анастасия Заикина</author>
+  <title>Что подарить на Новый год 2026? 130+ идей для презентов родным, друзьям и коллегам</title>
+  <link>https://lenta.ru/articles/2025/10/30/chto-podarit-na-novyy-god/</link>
+  <description>
+    <![CDATA[Новый год — один из самых любимых и долгожданных праздников. Абсолютное большинство россиян (87 процентов) покупают близким подарки: кто-то готовится заранее, другие ищут идеальный презент накануне торжества. «Лента.ру» предлагает десятки идей — что подарить родителям, детям, коллегам в честь 2026 года.]]>
+  </description>
+  <pubDate>Thu, 30 Oct 2025 18:59:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2024/11/13/13/20241113130359848/pic_486d862c61be95cf4a8db30abc025df3.jpg" type="image/jpeg" length="34858"/>
+  <category>Из жизни</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/30/pozdravleniya-roditelyam-s-novym-godom/</guid>
+  <author>Юлия Козинцева</author>
+  <title>Поздравления родителям с Новым годом. Лучшие пожелания на 2026 год в стихах и прозе</title>
+  <link>https://lenta.ru/articles/2025/10/30/pozdravleniya-roditelyam-s-novym-godom/</link>
+  <description>
+    <![CDATA[Под бой курантов в первую очередь хочется поздравить самых близких людей, в том числе и родителей. Порой бывает сложно выразить чувства своими словами, поэтому «Лента.ру» публикует лучшие поздравления для родителей, которые помогут максимально точно и красиво передать любовь и тепло в новогоднюю ночь.]]>
+  </description>
+  <pubDate>Thu, 30 Oct 2025 18:55:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/12/21/16/20231221163158533/pic_47eed371afe7f414fb1373559beeeb03.jpg" type="image/jpeg" length="34702"/>
+  <category>Из жизни</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/30/pozdravleniya-s-novym-godom-soldatu/</guid>
+  <author>Анна Луговая</author>
+  <title>Поздравления с Новым годом-2026 солдату: душевные слова, идеи пожеланий в стихах и прозе</title>
+  <link>https://lenta.ru/articles/2025/10/30/pozdravleniya-s-novym-godom-soldatu/</link>
+  <description>
+    <![CDATA[Приближается Новый год. В этот праздник важно подобрать теплые слова для своих близких — особенно тех, кто сейчас далеко от семьи. Военнослужащие всегда ждут весточек из дома, слов поддержки. «Лента.ру» подготовила несколько вариантов поздравлений с Новым годом солдату и офицеру — в прозе и стихах.]]>
+  </description>
+  <pubDate>Thu, 30 Oct 2025 18:31:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/12/19/11/20231219114739376/pic_e4e8f53d373bb3742afe845a4c1fdab3.jpg" type="image/jpeg" length="26372"/>
+  <category>Из жизни</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/30/pozdravleniya-s-novym-godom-uchitelyu/</guid>
+  <author>Анна Луговая</author>
+  <title>Поздравления с Новым, 2026 годом учителю. Как поздравить педагога в стихах и прозе?</title>
+  <link>https://lenta.ru/articles/2025/10/30/pozdravleniya-s-novym-godom-uchitelyu/</link>
+  <description>
+    <![CDATA[В Новый год принято выражать свою признательность родственникам, друзьям и всем важным в нашей жизни людям. В том числе учителям, ведь они помогают каждому ребенку обрести нужные для взрослой жизни знания, а родителям облегчают процесс воспитания. «Лента.ру» подготовила идеи оригинальных поздравлений для учителей.]]>
+  </description>
+  <pubDate>Thu, 30 Oct 2025 18:28:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/12/18/16/20231218162523277/pic_63088b40c0ef02079240a66ae44544c1.jpg" type="image/jpeg" length="23870"/>
+  <category>Из жизни</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/30/pozdravleniya-dlya-kolleg-s-novym-godom/</guid>
+  <author>Даяна Мухаметжанова</author>
+  <title>Поздравления с Новым годом-2026 для коллег: оригинальные идеи в стихах и прозе</title>
+  <link>https://lenta.ru/articles/2025/10/30/pozdravleniya-dlya-kolleg-s-novym-godom/</link>
+  <description>
+    <![CDATA[Декабрь — время итогов: составление отчетов, проведение корпоративов. Как подобрать слова для пожеланий шефу, своим подчиненным, сослуживцам, поддержать с ними теплый контакт? Идеи оригинальных новогодних поздравлений для коллег в прозе и стихах — в материале «Ленты.ру».]]>
+  </description>
+  <pubDate>Thu, 30 Oct 2025 18:27:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/12/11/12/20231211120932958/pic_9fb25c17d32b35bb119133dffe6b0efa.jpg" type="image/jpeg" length="26977"/>
+  <category>Из жизни</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/30/pozdravleniya-s-novym-godom/</guid>
+  <author>Анна Луговая</author>
+  <title>Оригинальные поздравления с Новым годом 2026: в стихах и прозе</title>
+  <link>https://lenta.ru/articles/2025/10/30/pozdravleniya-s-novym-godom/</link>
+  <description>
+    <![CDATA[Совсем скоро Новый год — праздник, во время которого каждый хочет подарить радость и улыбки всем окружающим: родителям, родственникам, друзьям и коллегам. И легче всего это сделать, конечно же, с помощью теплых слов. «Лента.ру» собрала примеры оригинальных поздравлений на любой вкус.]]>
+  </description>
+  <pubDate>Thu, 30 Oct 2025 18:25:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/12/04/15/20231204154109896/pic_c9144252614c228f19cee142634a4b18.jpg" type="image/jpeg" length="19318"/>
+  <category>Из жизни</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/30/alimentydeti/</guid>
+  <author>Юлия Козинцева</author>
+  <title>Как взыскать алименты на ребенка после развода? Как получить алименты добровольно или через суд в 2026 году</title>
+  <link>https://lenta.ru/articles/2025/10/30/alimentydeti/</link>
+  <description>
+    <![CDATA[Если пара разводится, общий ребенок может претендовать на алименты — положенную по закону материальную поддержку. Родитель может выплачивать ее добровольно или по решению суда. «Лента.ру» рассказывает, как подать на алименты в 2026 году и сколько один из родителей должен платить в случае развода.]]>
+  </description>
+  <pubDate>Thu, 30 Oct 2025 15:07:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/05/16/12/20230516120747304/pic_01cf03353bac9a256b75e9b76f6c9af9.jpg" type="image/jpeg" length="46572"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/30/eda/</guid>
+  <author>Дина Васильева</author>
+  <title>«Главное — не масштаб, а смысл» Как ремесленники из республик России заменили нам голландский сыр и итальянский кофе?</title>
+  <link>https://lenta.ru/articles/2025/10/30/eda/</link>
+  <description>
+    <![CDATA[]]>
+  </description>
+  <pubDate>Thu, 30 Oct 2025 12:13:29 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2025/10/24/16/20251024160107361/pic_e111e218b4f33d25fac20e14698a80de.jpg" type="image/jpeg" length="32256"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/30/olimpiada-lomonosov/</guid>
+  <author>Дарья Сидорова</author>
+  <title>Олимпиада «Ломоносов» 2025-2026: как участвовать, что дает победа</title>
+  <link>https://lenta.ru/articles/2025/10/30/olimpiada-lomonosov/</link>
+  <description>
+    <![CDATA[В ноябре у российских школьников стартовал отборочный этап олимпиады «Ломоносов», которая продлится до весны 2026 года. Соревнование охватывает 30 предметов. «Лента.ру» рассказывает, как проходит олимпиада «Ломоносов» в 2025-2025 учебном году, зачем участвовать и как подготовиться. ]]>
+  </description>
+  <pubDate>Thu, 30 Oct 2025 12:02:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2024/11/11/12/20241111123003497/pic_de696517c59523d7cfc9e694b9ba9a70.jpg" type="image/jpeg" length="24937"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/30/klimaticheskaya-katastrofa/</guid>
+  <author>Анна Аверьянова</author>
+  <title>Ученые зафиксировали на Земле начало масштабной климатической катастрофы. Она коснется миллиардов людей</title>
+  <link>https://lenta.ru/articles/2025/10/30/klimaticheskaya-katastrofa/</link>
+  <description>
+    <![CDATA[]]>
+  </description>
+  <pubDate>Thu, 30 Oct 2025 00:01:16 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2025/10/28/14/20251028140214070/pic_f2a66add6709b065e275fd176b642d4b.jpg" type="image/jpeg" length="24599"/>
+  <category>Экономика</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/30/smallplayer/</guid>
+  <author>Ярослав Забалуев</author>
+  <title>Колин Фаррелл беспробудно пьет и спускает состояние в казино в новом триллере. Почему стоит увидеть «Балладу о маленьком игроке»?</title>
+  <link>https://lenta.ru/articles/2025/10/30/smallplayer/</link>
+  <description>
+    <![CDATA[]]>
+  </description>
+  <pubDate>Thu, 30 Oct 2025 00:01:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2025/10/29/13/20251029131457907/pic_14238ef86d6a4d2e4a0d4fb33758dd4b.jpg" type="image/jpeg" length="27633"/>
+  <category>Культура</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/29/chto-podarit-devochke-na-novyy-god/</guid>
+  <author>Александра Кравченко</author>
+  <title>Что подарить девочке на Новый год — 2026: 210+ идей оригинальных и недорогих подарков</title>
+  <link>https://lenta.ru/articles/2025/10/29/chto-podarit-devochke-na-novyy-god/</link>
+  <description>
+    <![CDATA[Достаточно вспомнить собственные детские годы, чтобы понять, как дети радуются приближению Нового года. Этот праздник окутан атмосферой волшебства, все предвкушают чудо, которое вот-вот случится. И, конечно, какая же новогодняя ночь без подарков. «Лента.ру» публикует подборку новогодних подарков для девочек.]]>
+  </description>
+  <pubDate>Wed, 29 Oct 2025 17:50:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/11/28/20/20231128201041801/pic_e55e5ba23d4c4aa77b944e0fe1943277.jpg" type="image/jpeg" length="32032"/>
+  <category>Забота о себе</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/29/chto-podarit-malchiku-na-novyy-god/</guid>
+  <author>Алексей Хвостов</author>
+  <title>Что подарить мальчику на Новый год — 2026? 80 оригинальных идей подарков ребенку и подростку</title>
+  <link>https://lenta.ru/articles/2025/10/29/chto-podarit-malchiku-na-novyy-god/</link>
+  <description>
+    <![CDATA[Выбрать новогодний подарок для ребенка бывает непросто, даже если его интересы и увлечения известны. «Лента.ру» рассказывает, на что обратить внимание при выборе подарка для мальчиков и юношей и что конкретно можно купить, если хочется порадовать ребенка оригинальным подарком.]]>
+  </description>
+  <pubDate>Wed, 29 Oct 2025 17:48:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/11/22/16/20231122162958682/pic_c47388f35ef586f7bc6e9d56cd03510d.jpg" type="image/jpeg" length="34421"/>
+  <category>Забота о себе</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/29/konkursy-na-novyy-god/</guid>
+  <author>Нина Рыкова</author>
+  <title>Конкурсы на Новый год 2026 для взрослых и детей: 9 веселых игр для семьи и корпоратива</title>
+  <link>https://lenta.ru/articles/2025/10/29/konkursy-na-novyy-god/</link>
+  <description>
+    <![CDATA[Веселые конкурсы — неотъемлемая часть празднования Нового года как для детей, так и для взрослых. Они помогут сделать любой праздник веселым и незабываемым. Подборка необычных новогодних конкурсов для корпоратива на работе, семейных посиделок за праздничным столом и вечеринки с друзьями — в материале «Ленты.ру».<br />]]>
+  </description>
+  <pubDate>Wed, 29 Oct 2025 17:46:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/11/22/12/20231122122736206/pic_f5c9b2ac1295641a304c724ed73abe6c.jpg" type="image/jpeg" length="23671"/>
+  <category>Из жизни</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/29/chto-podarit-pape-na-novyy-god/</guid>
+  <author>Александра Кравченко</author>
+  <title>Что подарить папе на Новый год — 2026? 180 идей недорогих и оригинальных подарков от дочери или сына</title>
+  <link>https://lenta.ru/articles/2025/10/29/chto-podarit-pape-na-novyy-god/</link>
+  <description>
+    <![CDATA[Новый год — семейный праздник. И сколько бы лет нам ни было, в первую очередь в этот день мы хотим поздравить наших родных. А кто может быть ближе и роднее родителей? «Лента.ру» составила список презентов, которые можно преподнести на Новый год отцу: от набора чаев до патефона.]]>
+  </description>
+  <pubDate>Wed, 29 Oct 2025 17:39:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/11/03/19/20231103193337109/pic_0f63f00e200cda00e1a48fa99986ae86.jpg" type="image/jpeg" length="30675"/>
+  <category>Забота о себе</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/29/chto-podarit-mame-na-novyy-god/</guid>
+  <author>Эдуард Юсупов</author>
+  <title>Что подарить маме на Новый год — 2026? 70 оригинальных идей подарков от родных</title>
+  <link>https://lenta.ru/articles/2025/10/29/chto-podarit-mame-na-novyy-god/</link>
+  <description>
+    <![CDATA[Новый год — время, когда хочется порадовать близких людей. Один из способов, который поможет выразить свою любовь и внимание — праздничные подарки. Однако иногда бывает сложно найти тот самый идеальный презент. Чтобы это исправить, «Лента.ру» делится идеями подарков, которые можно преподнести матери на Новый год 2026.]]>
+  </description>
+  <pubDate>Wed, 29 Oct 2025 17:36:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/11/01/18/20231101183325003/pic_34586ddaf6d038887755e84fb649ed97.jpg" type="image/jpeg" length="25092"/>
+  <category>Забота о себе</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/29/chto-podarit-roditelyam-na-novyy-god/</guid>
+  <author>Эдуард Юсупов</author>
+  <title>Что подарить родителям на Новый год — 2026? 60 идей оригинальных презентов для родных</title>
+  <link>https://lenta.ru/articles/2025/10/29/chto-podarit-roditelyam-na-novyy-god/</link>
+  <description>
+    <![CDATA[В Новый год принято дарить подарки дорогим и любимым людям. И если подарок для друзей выбрать достаточно просто, то над идеальным подарком для родственников иногда приходится поломать голову. Чтобы было проще придумать, чем порадовать близких, «Лента.ру» делится идеями подарков для родителей на Новый год 2026.<br />]]>
+  </description>
+  <pubDate>Wed, 29 Oct 2025 17:32:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/11/01/18/20231101180332630/pic_3f7aa0ff14d1f37c425732d6484621ff.jpg" type="image/jpeg" length="35968"/>
+  <category>Забота о себе</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/29/chto-podarit-zhene-na-novyy-god/</guid>
+  <author>Алексей Хвостов</author>
+  <title>Что подарить жене на Новый год — 2026: 100 идей и советы по выбору презента</title>
+  <link>https://lenta.ru/articles/2025/10/29/chto-podarit-zhene-na-novyy-god/</link>
+  <description>
+    <![CDATA[С трудностями выбора часто сталкиваются мужчины, которые хотят сделать запоминающийся и полезный подарок жене на Новый год. «Лента.ру» рассказывает, как выбрать подарок супруге, и приводит конкретные примеры того, что можно вручить в новогоднюю ночь: от семейного фотоальбома до поездки в гастротур.]]>
+  </description>
+  <pubDate>Wed, 29 Oct 2025 17:30:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/10/27/19/20231027190438631/pic_cecd61dcef6cbe9ddf388c5468032419.jpg" type="image/jpeg" length="27955"/>
+  <category>Забота о себе</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/29/chto-podarit-rebenku-na-novyy-god/</guid>
+  <author>Ирина Майская</author>
+  <title>Что подарить ребенку на Новый год — 2026? 100+ оригинальных идей</title>
+  <link>https://lenta.ru/articles/2025/10/29/chto-podarit-rebenku-na-novyy-god/</link>
+  <description>
+    <![CDATA[Больше других Новый год, конечно, ждут дети. Ведь кульминация праздника — желанные подарки от Деда Мороза. Несмотря на большое разнообразие игрушек и развивающих гаджетов, выбрать подарок ребенку порой бывает непросто. «Лента.ру» выяснила, чем можно порадовать самых юных членов семьи на Новый год — 2026.]]>
+  </description>
+  <pubDate>Wed, 29 Oct 2025 17:18:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/11/01/19/20231101190909346/pic_210408f984b64e226721f04a9da7c7fc.jpg" type="image/jpeg" length="22293"/>
+  <category>Забота о себе</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/29/chto-podarit-kollegam-na-novyy-god/</guid>
+  <author>Александра Кравченко</author>
+  <title>Что подарить коллегам на Новый год — 2026? 65 оригинальных новогодних презентов сотрудникам</title>
+  <link>https://lenta.ru/articles/2025/10/29/chto-podarit-kollegam-na-novyy-god/</link>
+  <description>
+    <![CDATA[В преддверии Нового года каждый, кто работает в коллективе, задумывается о подарках для коллег. К этому выбору действительно стоит относиться внимательно, ведь это позволит поддержать в коллективе теплую атмосферу. Что именно можно рассмотреть в качестве подарков товарищам по работе? Рассказывает «Лента.ру». ]]>
+  </description>
+  <pubDate>Wed, 29 Oct 2025 17:16:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/10/24/01/20231024012902741/pic_ed4c248fada1d9cb6e12f6acd60e34fe.jpg" type="image/jpeg" length="27728"/>
+  <category>Забота о себе</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/29/chto-podarit-podrostku-na-novyy-god/</guid>
+  <author>Александра Кравченко</author>
+  <title>Что подарить подростку на Новый год — 2026? 60+ оригинальных подарков для мальчиков и девочек</title>
+  <link>https://lenta.ru/articles/2025/10/29/chto-podarit-podrostku-na-novyy-god/</link>
+  <description>
+    <![CDATA[Дети любых возрастов любят получать подарки на Новый год. Только вот в отличие от малышей подростки вряд ли будут рады любой мелочи, преподнесенной на праздник. Они куда более придирчивы, а значит, и подходить к выбору подарка для них необходимо внимательнее. «Лента.ру» составила список презентов для тинейджеров.]]>
+  </description>
+  <pubDate>Wed, 29 Oct 2025 17:15:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/10/24/01/20231024011431091/pic_0f4a157f7b78d644d679a7a91f328dcc.jpg" type="image/jpeg" length="28194"/>
+  <category>Забота о себе</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/29/vremya-16-16-na-chasah/</guid>
+  <author>Александра Кравченко</author>
+  <title>Время 16:16 на часах: значение цифр в ангельской нумерологии</title>
+  <link>https://lenta.ru/articles/2025/10/29/vremya-16-16-na-chasah/</link>
+  <description>
+    <![CDATA[Несмотря на то что ученые не находят доказательств влияния числовых совпадений на судьбу, вера в «знаки свыше» продолжает набирать популярность. Особенно часто внимание привлекают одинаковые цифры на часах. «Лента.ру» разбирается, какое значение приписывают формуле 16:16 и что по этому поводу говорят психологи.<br />]]>
+  </description>
+  <pubDate>Wed, 29 Oct 2025 17:12:11 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2025/10/09/18/20251009182532376/pic_c3afdfd0815f0ed314140a99ae96c722.jpg" type="image/jpeg" length="17603"/>
+  <category>Из жизни</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/29/otrovert/</guid>
+  <author>Татьяна Галич</author>
+  <title>Новый тип личности — отроверт: кто это такой и чем отличается от экстраверта и интроверта</title>
+  <link>https://lenta.ru/articles/2025/10/29/otrovert/</link>
+  <description>
+    <![CDATA[Долгое время считалось, что люди делятся на интровертов и экстравертов, но в XXI веке эта идея кажется слишком прямолинейной. Сейчас психологи отмечают, что большинство людей живут где-то между этими полюсами и называются амбивертами. Но недавно появился еще один тип личности — отроверты. О нем рассказывает «Лента.ру».]]>
+  </description>
+  <pubDate>Wed, 29 Oct 2025 17:12:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2025/10/23/11/20251023113258481/pic_c1ed682643f0eef8cbbb21f5eac5c411.jpg" type="image/jpeg" length="22409"/>
+  <category>Забота о себе</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/29/siamskaya-koshka/</guid>
+  <author>Ксения Богачева</author>
+  <title>Сиамская кошка: описание, характер, особенности ухода</title>
+  <link>https://lenta.ru/articles/2025/10/29/siamskaya-koshka/</link>
+  <description>
+    <![CDATA[Сиамская кошка с ее выразительной мордочкой и миндалевидными ярко-голубыми глазами — одна из самых узнаваемых и древних пород кошек. Они элегантны, стройны, умны и общительны. Сейчас сиамская кошка входит в топ популярных пород в нашей стране. «Лента.ру» рассказывает все, что нужно знать об этих животных.]]>
+  </description>
+  <pubDate>Wed, 29 Oct 2025 17:11:29 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2025/10/20/11/20251020112354277/pic_9c7ce19fa90e064f5f4a97f5a39653db.jpg" type="image/jpeg" length="31159"/>
+  <category>Из жизни</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/29/modnyy-manikyur-na-zimu-2026/</guid>
+  <author>Юлия Анасян</author>
+  <title>Модный маникюр на зиму-2026: идеи дизайна ногтей, тренды и новинки</title>
+  <link>https://lenta.ru/articles/2025/10/29/modnyy-manikyur-na-zimu-2026/</link>
+  <description>
+    <![CDATA[Главный тренд грядущей зимы — сдержанная роскошь. Вместо строгих правил в приоритете индивидуальность: можно выбрать любую удобную форму ногтей  — от овала до стилета — и дополнить ее однотонным покрытием или стильным дизайном. Подробнее о модных тенденциях в маникюре рассказывает «Лента.ру».<br />]]>
+  </description>
+  <pubDate>Wed, 29 Oct 2025 17:11:16 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2025/10/13/14/20251013143810085/pic_78e0a19620df5421f0508ce57e67de06.jpg" type="image/jpeg" length="29546"/>
+  <category>Ценности</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/29/platiya-na-novyy-god-2026/</guid>
+  <author>Юлия Анасян</author>
+  <title>Топ-10+ платьев на Новый год — 2026: модные тренды и советы стилистов</title>
+  <link>https://lenta.ru/articles/2025/10/29/platiya-na-novyy-god-2026/</link>
+  <description>
+    <![CDATA[Новый 2026 год — время для элегантных и комфортных образов. В моде наряды с выразительными деталями: объемными рукавами, плиссировкой и сияющими пайетками. «Лента.ру» рассказывает, какие фасоны, цвета и фактуры платьев надеть на праздничную вечеринку и что важно учитывать при выборе новогодних образов.<br /><br />]]>
+  </description>
+  <pubDate>Wed, 29 Oct 2025 17:11:01 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2025/10/21/15/20251021150643579/pic_d848f999d08879adc6bf39322af8d9ad.jpg" type="image/jpeg" length="30410"/>
+  <category>Ценности</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/29/zalivnye-pirogi-retsepty/</guid>
+  <author>Мария Васильева</author>
+  <title>Заливные пироги: 8 простых пошаговых рецептов</title>
+  <link>https://lenta.ru/articles/2025/10/29/zalivnye-pirogi-retsepty/</link>
+  <description>
+    <![CDATA[Заливные пироги считаются самыми простыми в приготовлении –– достаточно нескольких ингредиентов и четверти часа свободного времени. «Лента.ру» рассказывает, как правильно печь заливные пироги, и приводит проверенные пошаговые рецепты — с мясом, рыбой, овощами и фруктами.]]>
+  </description>
+  <pubDate>Wed, 29 Oct 2025 17:10:38 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2025/10/21/13/20251021134026458/pic_0ebbe8c0c9c233bf8bc4f0c44177f6b5.jpg" type="image/jpeg" length="42185"/>
+  <category>Из жизни</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/29/kuda-poehat-v-fevrale/</guid>
+  <author>Мария Васильева</author>
+  <title>Куда поехать отдыхать в феврале 2026 года: идеи для путешествий по России, за границу и на море</title>
+  <link>https://lenta.ru/articles/2025/10/29/kuda-poehat-v-fevrale/</link>
+  <description>
+    <![CDATA[Февраль — не самый популярный месяц для поездок: отпуск в конце зимы путешественники планируют нечасто. И это дает определенные плюсы — в это время можно избежать толп туристов. Лучшие идеи для отпуска в феврале 2026 года: куда ехать и где отдыхать в России и за границей — в материале «Ленты.ру».]]>
+  </description>
+  <pubDate>Wed, 29 Oct 2025 16:05:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2024/01/24/17/20240124173653267/pic_5a90d4dce77e178429b9b36de9dc0cce.jpg" type="image/jpeg" length="39505"/>
+  <category>Путешествия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/29/pravoslavnye-prazdniki-v-fevrale/</guid>
+  <author>Юлия Козинцева</author>
+  <title>Какие православные праздники отмечаются в феврале 2026 года? Церковный календарь</title>
+  <link>https://lenta.ru/articles/2025/10/29/pravoslavnye-prazdniki-v-fevrale/</link>
+  <description>
+    <![CDATA[На самый короткий месяц в 2026 году приходится лишь один крупный православный праздник — Сретение Господне. Однако в феврале верующие почитают многих святых и вспоминают Иверскую икону Божией Матери. Подробнее о самых важных церковных датах февраля — в материале «Ленты.ру».]]>
+  </description>
+  <pubDate>Wed, 29 Oct 2025 16:04:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2024/01/12/12/20240112123727651/pic_6527f2704089f753b6a8d790197f7d32.jpg" type="image/jpeg" length="35324"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/29/otkrytki-proschenoe-voskresenie/</guid>
+  <title>Открытки на Прощеное воскресенье: красивые картинки, чтобы поздравить близких и попросить прощения</title>
+  <link>https://lenta.ru/articles/2025/10/29/otkrytki-proschenoe-voskresenie/</link>
+  <description>
+    <![CDATA[Последний день Масленицы — Прощеное воскресенье. В это время верующие просят друг у друга прощения за все обиды. Многие присылают в мессенджере красивые открытки и картинки с поздравлениями. «Лента.ру» публикует картинки и открытки на Прощеное воскресенье, а также рассказывает, как сделать их самостоятельно.]]>
+  </description>
+  <pubDate>Wed, 29 Oct 2025 16:03:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2025/02/27/15/20250227150313178/pic_0e109d57e5eb8289a7d02310b96ae666.jpg" type="image/jpeg" length="28256"/>
+  <category>Из жизни</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/29/maslenichnaya-nedelya-po-dnyam/</guid>
+  <author>Оксана Чернышева</author>
+  <title>Масленичная неделя по дням в 2026 году: названия, когда начнется, традиции каждого дня</title>
+  <link>https://lenta.ru/articles/2025/10/29/maslenichnaya-nedelya-po-dnyam/</link>
+  <description>
+    <![CDATA[Масленица — один из самых массовых народных праздников, по данным опроса ВЦИОМ, его отмечают две трети россиян. В 2026 году она начнется в середине февраля, важно помнить — каждый из семи дней праздника имеет свои традиции. «Лента.ру» рассказывает об истории и традиции Масленичной недели.]]>
+  </description>
+  <pubDate>Wed, 29 Oct 2025 16:01:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2025/01/16/16/20250116162800954/pic_1f9b90b928c7610605d0049b89852792.jpg" type="image/jpeg" length="38607"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/29/maslenitsa-v-2026-godu/</guid>
+  <author>Оксана Чернышева</author>
+  <title>Масленица в 2026 году: дата, история, традиции и программа мероприятий</title>
+  <link>https://lenta.ru/articles/2025/10/29/maslenitsa-v-2026-godu/</link>
+  <description>
+    <![CDATA[Масленица — один из самых массовых народных праздников. По данным опроса ВЦИОМ, его отмечают две трети россиян. В 2026 году Масленичная неделя начнется в середине февраля. «Лента.ру» рассказывает об истории и традициях Масленицы, а также о приметах недели и самых вкусных рецептах блинов. ]]>
+  </description>
+  <pubDate>Wed, 29 Oct 2025 16:01:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2025/01/22/13/20250122132613082/pic_8ab46b184cda18935666d905b72047f2.jpg" type="image/jpeg" length="43103"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/29/velesov-den/</guid>
+  <author>Анна Луговая</author>
+  <title>Велесов день: история, традиции и обычаи. Когда и как отмечается праздник?</title>
+  <link>https://lenta.ru/articles/2025/10/29/velesov-den/</link>
+  <description>
+    <![CDATA[В российской культуре до сих пор сохранились праздники, история которых уходит корнями в дохристианские, языческие времена. Среди них — Масленица, Иван Купала, Велесов день. «Лента.ру» рассказывает, что за праздник Велесов день, как он был вписан в православный календарь, какие существуют традиции и обычаи.]]>
+  </description>
+  <pubDate>Wed, 29 Oct 2025 16:00:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2025/02/11/14/20250211144046263/pic_88eb8a9cf86a871462a4ae519cfe3a25.jpg" type="image/jpeg" length="32317"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/29/otkrytki-maslenitsa/</guid>
+  <title>Красивые открытки на Масленицу: 15 картинок для поздравления близких в 2026 году</title>
+  <link>https://lenta.ru/articles/2025/10/29/otkrytki-maslenitsa/</link>
+  <description>
+    <![CDATA[В 2026 году Масленица в России пройдет с 16 по 22 февраля. В последние годы на праздник принято отправлять друг другу красивые картинки в мессенджерах: их можно присылать в течение всей праздничной недели. В материале «Ленты.ру» можно скачать открытки на Масленицу и узнать, как сделать их самостоятельно.]]>
+  </description>
+  <pubDate>Wed, 29 Oct 2025 16:00:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2025/02/07/13/20250207131419672/pic_0357c1d15d1c076d2e61acf16426f1ae.jpg" type="image/jpeg" length="46465"/>
+  <category>Из жизни</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/29/otkrytki-na-23-fevralya/</guid>
+  <title>Открытки на 23 Февраля: 30+ красивых картинок на День защитника Отечества</title>
+  <link>https://lenta.ru/articles/2025/10/29/otkrytki-na-23-fevralya/</link>
+  <description>
+    <![CDATA[Многие люди присылают в мессенджерах поздравительные открытки на День защитника Отечества. Красивые открытки на 23 Февраля можно создать самому или скачать из интернета. «Лента.ру» приводит более 30 вариантов красивых картинок с поздравлениями и рассказывает, как сделать открытку на 23 Февраля.]]>
+  </description>
+  <pubDate>Wed, 29 Oct 2025 15:59:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2025/02/05/17/20250205175446786/pic_dabec06f55e5d524c04101c4db41117d.jpg" type="image/jpeg" length="29649"/>
+  <category>Из жизни</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/29/den-zaschitnika-otechestva/</guid>
+  <author>Даяна Мухаметжанова</author>
+  <title>День защитника Отечества в России в 2026 году: история и традиции праздника 23 февраля</title>
+  <link>https://lenta.ru/articles/2025/10/29/den-zaschitnika-otechestva/</link>
+  <description>
+    <![CDATA[За век праздник 23 февраля сменил несколько названий, однако главный патриотический смысл остался неизменным. В День защитника Отечества россияне отдают дань уважения мужеству соотечественников, проявивших доблесть и честь, чтобы защитить свою Родину. Об истории праздника и его значении читайте в материале «Ленты.ру».]]>
+  </description>
+  <pubDate>Wed, 29 Oct 2025 15:58:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2024/01/16/12/20240116121330139/pic_6492e3d49140b5da46d7b9765f2e8312.jpg" type="image/jpeg" length="28003"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/29/mezhdunarodnyy-den-rodnogo-yazyka/</guid>
+  <author>Ксения Дорофеева</author>
+  <title>Международный день родного языка: дата и традиции праздника</title>
+  <link>https://lenta.ru/articles/2025/10/29/mezhdunarodnyy-den-rodnogo-yazyka/</link>
+  <description>
+    <![CDATA[В феврале во многих странах мира отмечают Международный день родного языка. Праздник, учрежденный ЮНЕСКО, посвящен сохранению самобытности различных народностей и культур на всей планете. Подробнее о его дате, истории и традициях, а также интересные факты о языках — в материале «Ленты.ру».<br />]]>
+  </description>
+  <pubDate>Wed, 29 Oct 2025 15:57:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2025/01/20/17/20250120171527732/pic_bfede8ba846d02d16978e106afa1e0a6.jpg" type="image/jpeg" length="36518"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/29/den-feldshera/</guid>
+  <author>Ксения Дорофеева</author>
+  <title>День фельдшера в России в 2026 году: дата праздника, история профессии</title>
+  <link>https://lenta.ru/articles/2025/10/29/den-feldshera/</link>
+  <description>
+    <![CDATA[В 2023 году учебные заведения нашей страны выпустили более 11 тысяч фельдшеров, что помогло значительно сократить дефицит кадров. В феврале эти медработники отмечают свой профессиональный праздник. Какого числа празднуют День фельдшера в России и как появилась эта профессия — в материале «Ленты.ру».<br />]]>
+  </description>
+  <pubDate>Wed, 29 Oct 2025 15:55:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2025/02/06/13/20250206133401144/pic_56e4b6eb7a6be7ca8be00119443123ce.jpg" type="image/jpeg" length="29799"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/29/prazdnik-sreteniya-gospodnya/</guid>
+  <author>Ирина Майская</author>
+  <title>Праздник Сретения Господня в 2026 году: какого числа отмечают и какие традиции соблюдают православные христиане</title>
+  <link>https://lenta.ru/articles/2025/10/29/prazdnik-sreteniya-gospodnya/</link>
+  <description>
+    <![CDATA[Сретение Господне — важная дата в церковном календаре, один из двенадцати двунадесятых праздников. В 2026 году, как и в другие годы, православные христиане отмечают его 15 февраля. Об истории праздника, о традициях и народных приметах, связанных с этой датой, читайте в материале «Ленты.ру».]]>
+  </description>
+  <pubDate>Wed, 29 Oct 2025 15:54:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2024/01/12/11/20240112114447893/pic_805c4b4911f1de6ae2bbd50ad62371dd.jpg" type="image/jpeg" length="15029"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/29/den-svyatogo-valentina/</guid>
+  <author>Нина Рыкова</author>
+  <title>День святого Валентина в 2026 году. Когда и как отмечают праздник всех влюбленных?</title>
+  <link>https://lenta.ru/articles/2025/10/29/den-svyatogo-valentina/</link>
+  <description>
+    <![CDATA[День святого Валентина или День всех влюбленных — праздник, который отмечают во многих странах мира. При этом есть множество легенд, объясняющих появление этого торжества и его связь с романтикой. Самые популярные из них, а также традиции праздника — в материале «Ленты.ру».<br />]]>
+  </description>
+  <pubDate>Wed, 29 Oct 2025 15:54:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2024/01/17/11/20240117114502887/pic_428f887674fe70aebe21a56a5ba3c67e.jpg" type="image/jpeg" length="39703"/>
+  <category>Из жизни</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/29/lyzhnya-rossii/</guid>
+  <author>Екатерина Шатская</author>
+  <title>«Лыжня России» — 2026: дата и места проведения главного лыжного события страны</title>
+  <link>https://lenta.ru/articles/2025/10/29/lyzhnya-rossii/</link>
+  <description>
+    <![CDATA[«Лыжня России» — крупнейшее зимнее мероприятие, принять участие в котором могут как профессиональные спортсмены, так и любители. Ежегодно на трассу выходит более 500 тысяч человек. «Лента.ру» рассказывает, когда и где проводится «Лыжня России» в 2026 году и как зарегистрироваться для участия в соревнованиях.<br />]]>
+  </description>
+  <pubDate>Wed, 29 Oct 2025 15:52:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2025/01/20/13/20250120130156971/pic_21b6f6306280281fc0b7448bdfd981c4.jpg" type="image/jpeg" length="27070"/>
+  <category>Спорт</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/29/sagaalgan/</guid>
+  <author>Мария Васильева</author>
+  <title>Сагаалган в 2026 году: дата праздника, история и традиции</title>
+  <link>https://lenta.ru/articles/2025/10/29/sagaalgan/</link>
+  <description>
+    <![CDATA[Сагаалган или Белый месяц — это главный праздник в культуре монголоязычных и бурятских народов, которые исповедуют буддизм. Он символизирует обновление природы и человека, переход к новому лунному году. Дата Сагаалгана в 2026 году, а также история и традиции праздника — в материале «Ленты.ру».<br />]]>
+  </description>
+  <pubDate>Wed, 29 Oct 2025 15:49:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2025/01/22/12/20250122121710906/pic_6acf958583c756024fc1cc374d339dcd.jpg" type="image/jpeg" length="33603"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/29/den-rossiyskoy-nauki/</guid>
+  <author>Ксения Дорофеева</author>
+  <title>День российской науки в 2026 году: дата, история и традиции праздника</title>
+  <link>https://lenta.ru/articles/2025/10/29/den-rossiyskoy-nauki/</link>
+  <description>
+    <![CDATA[Каждый год в феврале в нашей стране отмечают День российской науки. Он приурочен к знаменательной дате — выходу указа императора Петра I об учреждении первой в истории государства Академии наук. Подробнее об истории праздника, его традициях и особенностях — в материале «Ленты.ру».<br />]]>
+  </description>
+  <pubDate>Wed, 29 Oct 2025 15:47:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2025/01/20/13/20250120130129380/pic_7750ed8f3d84976382c1ea70d9b8eafd.jpg" type="image/jpeg" length="44435"/>
+  <category>Наука и техника</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/29/mne-eto-nravilos-eto-bylo-igroy/</guid>
+  <title>«Мне это нравилось. Это было игрой» Как Гитлер научил миллионы людей зиговать и заставил их поверить в зловещие символы нацизма?</title>
+  <link>https://lenta.ru/articles/2025/10/29/mne-eto-nravilos-eto-bylo-igroy/</link>
+  <description>
+    <![CDATA[]]>
+  </description>
+  <pubDate>Wed, 29 Oct 2025 15:29:11 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2025/07/02/17/20250702170256022/pic_9907cedda9181fe9552622eae42d5d97.jpg" type="image/jpeg" length="44203"/>
+  <category>Наука и техника</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/29/prizyvnoi-vozrast/</guid>
+  <author>Константин Николaев</author>
+  <title>Призывной возраст в России в 2026 году: кого и когда призывают на срочную службу в армию</title>
+  <link>https://lenta.ru/articles/2025/10/29/prizyvnoi-vozrast/</link>
+  <description>
+    <![CDATA[С 2024 года предельный возраст призыва в армию РФ вырос с 27 до 30 лет. А с 2026-го будут действовать новые правила призыва и отправки новобранцев на срочную службу. «Лента.ру» рассказывает, кого призовут в 2026 году, когда состоится призыв и кто имеет право на отсрочку и освобождение от армии.]]>
+  </description>
+  <pubDate>Wed, 29 Oct 2025 14:57:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2024/03/11/15/20240311154721468/pic_26cbc7b2d779bc80c143a2aad12652bf.jpg" type="image/jpeg" length="27907"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/29/demenciya/</guid>
+  <title>«Для меня такие занятия — настоящая отдушина» Россияне помогают людям с деменцией и их семьям. Как эти встречи меняют их жизнь?</title>
+  <link>https://lenta.ru/articles/2025/10/29/demenciya/</link>
+  <description>
+    <![CDATA[]]>
+  </description>
+  <pubDate>Wed, 29 Oct 2025 00:01:18 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2025/07/10/12/20250710124751660/pic_5e6c475e40e76476c1fe7b57a55000f4.jpg" type="image/jpeg" length="28425"/>
+  <category>Среда обитания</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/29/menya-ubyut/</guid>
+  <author>Андрей Стрельцов</author>
+  <title>«Каждую минуту думал, что меня убьют» Попытка похищения футболиста «Зенита» шокировала Россию. Кто идет на такие преступления?</title>
+  <link>https://lenta.ru/articles/2025/10/29/menya-ubyut/</link>
+  <description>
+    <![CDATA[]]>
+  </description>
+  <pubDate>Wed, 29 Oct 2025 00:01:13 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2025/10/28/14/20251028140818998/pic_88e7b8c7a6627ba7b5f14f74b02e5599.jpg" type="image/jpeg" length="24906"/>
+  <category>Спорт</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/29/novorossiysk/</guid>
+  <author>Ярослав Солонин</author>
+  <title>«Всюду крики о помощи» 70 лет назад произошла одна из самых страшных морских катастроф в истории СССР. Что стало ее причиной?</title>
+  <link>https://lenta.ru/articles/2025/10/29/novorossiysk/</link>
+  <description>
+    <![CDATA[]]>
+  </description>
+  <pubDate>Wed, 29 Oct 2025 00:01:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2025/10/27/15/20251027155643545/pic_25be4db49b0839729ad61e884e119278.jpg" type="image/jpeg" length="23550"/>
+  <category>Наука и техника</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/29/e-arapova/</guid>
+  <author>Дмитрий Попов</author>
+  <title>«Послаблений ждать не стоит» Евросоюз и США снова ужесточили антироссийские санкции. Как на это ответит Россия?</title>
+  <link>https://lenta.ru/articles/2025/10/29/e-arapova/</link>
+  <description>
+    <![CDATA[]]>
+  </description>
+  <pubDate>Wed, 29 Oct 2025 00:01:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2025/10/23/13/20251023133450674/pic_2b51e9bdb1a7e20f03077ecf57ac38de.jpg" type="image/jpeg" length="29712"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/28/chto-podarit-muzhu-na-novyy-god/</guid>
+  <author>Александра Кравченко</author>
+  <title>Что подарить мужу на Новый год — 2026: 45 оригинальных идей</title>
+  <link>https://lenta.ru/articles/2025/10/28/chto-podarit-muzhu-na-novyy-god/</link>
+  <description>
+    <![CDATA[Именно бок о бок со своим избранником женщины проживают и все трудности, и самые счастливые моменты. Радость от новогоднего праздника, конечно, тоже хочется разделить с мужем. А какой же Новый год без подарков? «Лента.ру» составила список идей, что подарить супругу в эту праздничную ночь.]]>
+  </description>
+  <pubDate>Tue, 28 Oct 2025 20:45:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/10/18/14/20231018140755854/pic_ece0b92085601acbab0e61d600a43d22.jpg" type="image/jpeg" length="29383"/>
+  <category>Забота о себе</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/28/kak-nazvat-kota-malchika/</guid>
+  <author>Ксения Богачева</author>
+  <title>Как назвать кота-мальчика: 180+ идей</title>
+  <link>https://lenta.ru/articles/2025/10/28/kak-nazvat-kota-malchika/</link>
+  <description>
+    <![CDATA[Выбор клички для кота — дело ответственное, ведь это про установление контакта с питомцем, начало взаимодействия. Хорошая кличка легко произносится, быстро запоминается. Она может отражать внешний вид котенка, его характер или ваше настроение. «Лента.ру» составила гид по выбору имени для котенка-мальчика.]]>
+  </description>
+  <pubDate>Tue, 28 Oct 2025 20:42:08 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2025/10/22/13/20251022130304051/pic_c6ee54f3762ec90b2f7789e36f7824e5.jpg" type="image/jpeg" length="30873"/>
+  <category>Из жизни</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/28/enneagramma/</guid>
+  <author>Александра Кравченко</author>
+  <title>Эннеаграмма: что это, как определить свой тип личности</title>
+  <link>https://lenta.ru/articles/2025/10/28/enneagramma/</link>
+  <description>
+    <![CDATA[Среди множества типологий личностей эннеаграмма занимает особое место за счет своей необычности — в ее основе лежит одноименная геометрическая фигура. «Лента.ру» рассказывает о том, в чем суть эннеаграммы, почему она продолжает вызывать интерес и что о ней говорят в научном сообществе.]]>
+  </description>
+  <pubDate>Tue, 28 Oct 2025 20:42:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2025/10/17/13/20251017134943118/pic_6171c00818e1a7f9cf1c392472af3e5f.jpg" type="image/jpeg" length="32264"/>
+  <category>Забота о себе</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/28/chto-posmotret-v-pereslavle-zalesskom-za-odin-den/</guid>
+  <author>Ксения Дорофеева</author>
+  <title>Что посмотреть в Переславле-Залесском за один день? Главные достопримечательности и маршрут прогулки по городу</title>
+  <link>https://lenta.ru/articles/2025/10/28/chto-posmotret-v-pereslavle-zalesskom-za-odin-den/</link>
+  <description>
+    <![CDATA[Переславль-Залесский стал самым популярным городом Золотого кольца среди жителей столицы, обогнав Сергиев Посад, Ростов, Кострому и другие. «Лента.ру» рассказывает, что можно посмотреть в Переславле-Залесском за один день и какой маршрут выбрать для прогулки, чтобы ничего не пропустить.<br />]]>
+  </description>
+  <pubDate>Tue, 28 Oct 2025 20:41:57 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2025/10/16/12/20251016120130874/pic_7ce6e209ada5050147804c479e42507a.jpg" type="image/jpeg" length="33919"/>
+  <category>Путешествия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/28/lunnyy-posevnoy-kalendar-na-noyabr-2025-goda/</guid>
+  <author>Екатерина Шатская</author>
+  <title>Лунный посевной календарь на ноябрь 2025 года: благоприятные и неблагоприятные дни для садовых работ</title>
+  <link>https://lenta.ru/articles/2025/10/28/lunnyy-posevnoy-kalendar-na-noyabr-2025-goda/</link>
+  <description>
+    <![CDATA[Несмотря на то что научное сообщество не подтверждает прямого влияния лунных фаз на рост растений, многие дачники продолжают сверять свои планы с лунным календарем. «Лента.ру» рассказывает о фазах Луны в ноябре 2025 года и публикует таблицу с благоприятными и неблагоприятными днями для всех видов садовых работ.]]>
+  </description>
+  <pubDate>Tue, 28 Oct 2025 20:41:45 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2025/10/20/12/20251020121432676/pic_868fbbb408fc997dc095f928037473e2.jpg" type="image/jpeg" length="6989"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/28/den-rozhdeniya-komsomola/</guid>
+  <author>Екатерина Шатская</author>
+  <title>День рождения комсомола в 2025 году: дата, история и традиции праздника</title>
+  <link>https://lenta.ru/articles/2025/10/28/den-rozhdeniya-komsomola/</link>
+  <description>
+    <![CDATA[Ежегодно 29 октября в России отмечается День рождения комсомола. Хоть этой организации не существует уже более тридцати лет, для миллионов россиян эта дата остается поводом для ностальгии и воспоминаний о молодости. «Лента.ру» рассказывает об истории и традициях праздника, пережившего советскую эпоху.]]>
+  </description>
+  <pubDate>Tue, 28 Oct 2025 20:41:12 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2025/10/23/13/20251023134609359/pic_f16bcfd98bc74b93f659fe9213b0f6aa.jpg" type="image/jpeg" length="38074"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/28/kak-otdyhaem-na-4-noyabrya/</guid>
+  <author>Валерия Княгинина</author>
+  <title>4 ноября 2025 года — выходной или рабочий день? Как россияне отдыхают в честь Дня народного единства</title>
+  <link>https://lenta.ru/articles/2025/10/28/kak-otdyhaem-na-4-noyabrya/</link>
+  <description>
+    <![CDATA[В ноябре россияне каждый год отмечают День народного единства. Это официальный государственный праздник, в честь которого предусмотрен выходной. «Лента.ру» рассказывает, что это за праздник, в какие дни будут отдыхать люди с пятидневным рабочим графиком в 2025 году и выгодно ли брать отпуск в последний месяц осени.]]>
+  </description>
+  <pubDate>Tue, 28 Oct 2025 20:40:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2025/10/21/12/20251021120421467/pic_d12559a68af07d35821b3f82f6ba3c30.jpg" type="image/jpeg" length="25350"/>
+  <category>Экономика</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/28/roman-popov/</guid>
+  <author>Вера Павлова</author>
+  <title>Роман Попов: биография, карьера, роли в кино, болезнь</title>
+  <link>https://lenta.ru/articles/2025/10/28/roman-popov/</link>
+  <description>
+    <![CDATA[28 октября не стало Романа Попова, российского актера театра и кино, победителя одного из сезонов шоу «Comedy Баттл», звезды «Полицейского с Рублевки». «Лента.ру» вспоминает о его карьере в  кино и на телевидении, а также рассказывает о болезни, с которой артист боролся последние семь лет.]]>
+  </description>
+  <pubDate>Tue, 28 Oct 2025 17:00:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2025/10/28/16/20251028161036563/pic_76ce186cd429bb0e543ba56e56691375.jpg" type="image/jpeg" length="20499"/>
+  <category>Культура</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/28/zimnie-kanikuly-u-shkolnikov/</guid>
+  <author>Ксения Дорофеева</author>
+  <title>Зимние каникулы у школьников в 2025/2026 учебном году: график по четвертям, триместрам и при гибридной системе</title>
+  <link>https://lenta.ru/articles/2025/10/28/zimnie-kanikuly-u-shkolnikov/</link>
+  <description>
+    <![CDATA[С декабря у российских школьников начинаются зимние каникулы. Некоторые дети отдыхают дважды за зиму, некоторые — только один раз: все зависит от того, по какому графику они учатся. У первоклассников есть дополнительные каникулы. Как российские школьники отдыхают зимой в 2025/2026 учебном году — в материале «Ленты.ру».]]>
+  </description>
+  <pubDate>Tue, 28 Oct 2025 13:34:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2024/11/12/14/20241112140617972/pic_c4d26fb4ffd6fd28482d8a9d2a6af9a0.jpg" type="image/jpeg" length="41758"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/28/kalendar-solnechnyh-i-lunnyh-zatmeniy/</guid>
+  <author>Эдуард Юсупов</author>
+  <title>Календарь солнечных и лунных затмений на 2026 год: когда и где их можно увидеть?</title>
+  <link>https://lenta.ru/articles/2025/10/28/kalendar-solnechnyh-i-lunnyh-zatmeniy/</link>
+  <description>
+    <![CDATA[В 2026 году жители Земли смогут увидеть два солнечных и два лунных затмения. «Лента.ру» рассказывает, когда именно произойдут эти события, из каких точек планеты можно наблюдать за затмениями и можно ли будет увидеть солнечное и лунное затмение с территории России.]]>
+  </description>
+  <pubDate>Tue, 28 Oct 2025 12:46:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/10/25/16/20231025161733629/pic_10622f465fcd4a37656b9bcd33f93419.jpg" type="image/jpeg" length="12168"/>
+  <category>Наука и техника</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/28/gk-osnova/</guid>
+  <author>Елизавета Аверкова</author>
+  <title>В Москве появится уникальный комплекс. Чем он удивит покупателей?</title>
+  <link>https://lenta.ru/articles/2025/10/28/gk-osnova/</link>
+  <description>
+    <![CDATA[Сегодня дом перестал быть просто суммой квадратных метров и удачной планировки. Он превратился в продолжение личности, среду, которая формирует настроение и ежедневно экономит самый ценный ресурс — время. Комплекс Emotion от ГК «Основа» в «Большом Сити» в Москве стал примером сочетания эстетики и функциональности.]]>
+  </description>
+  <pubDate>Tue, 28 Oct 2025 09:53:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2025/10/22/16/20251022160851724/pic_bb3c4970cb4f4a74a4b23f40e5c57af9.jpg" type="image/jpeg" length="46631"/>
+  <category>Экономика</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/28/gnomik/</guid>
+  <author>Евгения Наумова</author>
+  <title>«Реальный лохотрон» Целители снимали с россиян порчу по телевизору и лечили от всех болезней. Как они стали посмешищем?</title>
+  <link>https://lenta.ru/articles/2025/10/28/gnomik/</link>
+  <description>
+    <![CDATA[]]>
+  </description>
+  <pubDate>Tue, 28 Oct 2025 00:01:23 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2025/10/21/17/20251021170649007/pic_64b1e3bc290dad835417fe23ecb07ee9.jpg" type="image/jpeg" length="33644"/>
+  <category>Интернет и СМИ</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/28/memory-voen/</guid>
+  <author>Михаил Кириллов</author>
+  <title>«Здесь год идет за десять» За четыре года на СВО погибли 15 журналистов. Как эта война изменила работу репортеров на линии фронта?</title>
+  <link>https://lenta.ru/articles/2025/10/28/memory-voen/</link>
+  <description>
+    <![CDATA[]]>
+  </description>
+  <pubDate>Tue, 28 Oct 2025 00:01:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2025/10/27/14/20251027143027550/pic_e3ec1c790f7942e3968a35bc26a42a58.jpg" type="image/jpeg" length="34464"/>
+  <category>Бывший СССР</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2024/12/26/daty-roditelskih-subbot/</guid>
+  <author>Юлия Козинцева</author>
+  <title>Даты Родительских суббот в 2026 году. Что можно и нельзя делать в дни поминовения усопших?</title>
+  <link>https://lenta.ru/articles/2024/12/26/daty-roditelskih-subbot/</link>
+  <description>
+    <![CDATA[Родительские субботы — дни, когда верующие вспоминают ушедших родственников и близких. Даты Родительских суббот зависят от Пасхи и каждый год выпадают на разные числа. «Лента.ру» выяснила, когда отмечаются Родительские субботы в 2026 году и как правильно поминать усопших в эти дни. ]]>
+  </description>
+  <pubDate>Mon, 27 Oct 2025 23:20:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2024/01/31/17/20240131172110748/pic_9a2f46a3b864434a6cf18b70fb4a976f.jpg" type="image/jpeg" length="31689"/>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/27/den-surka/</guid>
+  <author>Даяна Мухаметжанова</author>
+  <title>День сурка в 2026 году: что это за праздник, когда и как его отмечают</title>
+  <link>https://lenta.ru/articles/2025/10/27/den-surka/</link>
+  <description>
+    <![CDATA[День сурка — народный праздник в США и Канаде. Каждый год 2 февраля множество людей со всего мира наблюдают, как просыпается после зимней спячки сурок, и по его поведению прогнозируют погоду на шесть недель вперед. Подробнее о празднике — в материале «Ленты.ру».]]>
+  </description>
+  <pubDate>Mon, 27 Oct 2025 23:00:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2024/01/23/11/20240123115130638/pic_76523a8b53dced99e298dbd1f087e2fa.jpg" type="image/jpeg" length="27252"/>
+  <category>Из жизни</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/27/proizvodstvennyy-kalendar-na-yanvar-2025-goda/</guid>
+  <author>Оксана Чернышева</author>
+  <title>Производственный календарь на январь 2026 года: рабочие, праздничные и выходные дни </title>
+  <link>https://lenta.ru/articles/2025/10/27/proizvodstvennyy-kalendar-na-yanvar-2025-goda/</link>
+  <description>
+    <![CDATA[Председатель правительства России Михаил Мишустин утвердил производственный календарь праздничных и выходных дней в 2026 году. В январе россиян ждут традиционные новогодние праздники — отличное время для долгожданного отдыха. «Лента.ру» рассказывает, когда отдыхать и выходить на работу. ]]>
+  </description>
+  <pubDate>Mon, 27 Oct 2025 22:08:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2024/12/25/19/20241225190642330/pic_7370803c4235d2dc21b292608b08eeeb.jpg" type="image/jpeg" length="26108"/>
+  <category>Экономика</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/27/pravoslavnye-prazdniki-v-yanvare/</guid>
+  <author>Юлия Козинцева</author>
+  <title>Православные праздники в январе 2026 года. Церковный календарь</title>
+  <link>https://lenta.ru/articles/2025/10/27/pravoslavnye-prazdniki-v-yanvare/</link>
+  <description>
+    <![CDATA[На первый месяц года приходится один из самых крупных православных праздников — Рождество Христово. Также в январе заканчивается Рождественский пост и начинаются Святки — череда праздничных дней вплоть до Крещения Господня. «Лента.ру» выяснила, какие праздники церковь отмечает в январе и как их стоит провести верующим.]]>
+  </description>
+  <pubDate>Mon, 27 Oct 2025 22:05:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/12/06/15/20231206150200900/pic_c480f3279e73b2f5e380c75c2f957208.jpg" type="image/jpeg" length="15395"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/27/kitayskiy-novyy-god-2025/</guid>
+  <author>Екатерина Шатская</author>
+  <title>Китайский Новый год 2026. Когда начнется год Красной Лошади по лунному календарю?</title>
+  <link>https://lenta.ru/articles/2025/10/27/kitayskiy-novyy-god-2025/</link>
+  <description>
+    <![CDATA[Китайский Новый год — один из самых значимых праздников в Китае. Он символизирует начало нового года по лунному календарю и приходится на промежуток с 21 января по 21 февраля. «Лента.ру» вспоминает историю и традиции праздника, а также рассказывает, что означает символ 2026 года — Красная Огненная Лошадь. ]]>
+  </description>
+  <pubDate>Mon, 27 Oct 2025 22:05:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2024/11/14/15/20241114155539557/pic_19cae4dd0e28fe3da4b6d3af5a55c060.jpg" type="image/jpeg" length="35652"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/27/raspisanie-ege-na-2026-god/</guid>
+  <author>Виктория Подсухина</author>
+  <title>Расписание ЕГЭ в 2026 году: даты экзаменов и пересдач для 11-классников и выпускников прошлых лет</title>
+  <link>https://lenta.ru/articles/2025/10/27/raspisanie-ege-na-2026-god/</link>
+  <description>
+    <![CDATA[В России утвердили расписания Единого государственного экзамена (ЕГЭ) на 2026 год. «Лента.ру» рассказывает, в какие дни сдают обязательные и не обязательные предметы ЕГЭ одиннадцатиклассники и выпускники прошлых лет, когда можно пересдать экзамен и как вести себя во время экзамена.]]>
+  </description>
+  <pubDate>Mon, 27 Oct 2025 21:56:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2025/04/14/13/20250414132740912/pic_f486dda6dd48c66d6fa49ec7fd7bc3ab.jpg" type="image/jpeg" length="19799"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/27/den-svyatoy-ravnoapostolnoy-niny/</guid>
+  <author>Кирилл Юрьев</author>
+  <title>День святой равноапостольной Нины — 2026: дата, история и традиции православного праздника</title>
+  <link>https://lenta.ru/articles/2025/10/27/den-svyatoy-ravnoapostolnoy-niny/</link>
+  <description>
+    <![CDATA[В конце января Русская православная церковь каждый год чтит память святой равноапостольной Нины, просветительницы Грузии. «Лента.ру» рассказывает об истории праздника, связанных с ним православных традициях и народных приметах, а также о том, что можно и нельзя делать в этот день.]]>
+  </description>
+  <pubDate>Mon, 27 Oct 2025 21:55:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2025/01/10/18/20250110185215624/pic_3d8fd5eef85aedbda510ef169426d7ff.jpg" type="image/jpeg" length="33760"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/27/den-snyatiya-s-leningrada-fashistskoy-blokady-27-yanvarya-1944-goda/</guid>
+  <author>Константин Николaев</author>
+  <title>День снятия с Ленинграда фашистской блокады: дата, история освобождения города</title>
+  <link>https://lenta.ru/articles/2025/10/27/den-snyatiya-s-leningrada-fashistskoy-blokady-27-yanvarya-1944-goda/</link>
+  <description>
+    <![CDATA[82 года назад, 27 января 1944 года, была полностью снята блокада города Ленинграда, которая продолжалась беспрецедентный срок в мировой истории — 872 дня. Больше ни один город в мире не выдерживал столь длительную блокаду. «Лента.ру» рассказывает об истории блокады, ее прорыве, а также о дне освобождения Ленинграда.]]>
+  </description>
+  <pubDate>Mon, 27 Oct 2025 21:54:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2025/01/13/17/20250113174827394/pic_5d0ec9259f9c88cce36a03e7e98b28f7.jpg" type="image/jpeg" length="24790"/>
+  <category>Наука и техника</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/27/pozdravleniya-s-tatyaninym-dnem/</guid>
+  <title>Поздравления с Татьяниным днем: красивые слова в прозе, короткие фразы для СМС</title>
+  <link>https://lenta.ru/articles/2025/10/27/pozdravleniya-s-tatyaninym-dnem/</link>
+  <description>
+    <![CDATA[25 января ежегодно отмечается Татьянин день — праздник всех российских студентов и именины женщин с именем Татьяна. Называть свой праздник в честь святой Татианы Римской студенты начали еще в XVIII веке. Как поздравить с этим праздником родных и близких, пишет «Лента.ру».]]>
+  </description>
+  <pubDate>Mon, 27 Oct 2025 21:53:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2025/01/24/13/20250124131259630/pic_5486e98e94574fdbf4cb96029a99fa35.jpg" type="image/jpeg" length="33453"/>
+  <category>Из жизни</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/27/tatyanin-den/</guid>
+  <author>Ирина Майская</author>
+  <title>Татьянин день в 2026 году: когда и как студенты в России отмечают этот праздник</title>
+  <link>https://lenta.ru/articles/2025/10/27/tatyanin-den/</link>
+  <description>
+    <![CDATA[Ежегодно 25 января в России есть несколько поводов для праздника: отмечают и именины Татьяны, и День студента, и окончание зимней сессии в вузах. О том, как все это связано, о происхождении праздника, о его истории и связанных с ним традициях, читайте в материале «Ленты.ру».]]>
+  </description>
+  <pubDate>Mon, 27 Oct 2025 21:52:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/12/06/16/20231206160451275/pic_36b9237534427b77ede40195bf81d7ae.jpg" type="image/jpeg" length="29610"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/27/den-inzhenernyh-voysk-v-rossii/</guid>
+  <author>Алексей Хвостов</author>
+  <title>История и традиции Дня инженерных войск России: когда и как в 2026 году отмечают праздник</title>
+  <link>https://lenta.ru/articles/2025/10/27/den-inzhenernyh-voysk-v-rossii/</link>
+  <description>
+    <![CDATA[21 января — День инженерных и саперных войск в России. Именно в этот день в 1701 году была учреждена Школа пушкарского приказа, первое в Русском царстве училище для подготовки военных инженеров. «Лента.ру» рассказывает, чем занимаются инженерные войска в современной России и как отмечают этот день.]]>
+  </description>
+  <pubDate>Mon, 27 Oct 2025 21:50:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/12/06/15/20231206154134867/pic_34affab0db4e3a42245b97779639a481.jpg" type="image/jpeg" length="24896"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/27/den-svekrovi/</guid>
+  <author>Ксения Дорофеева</author>
+  <title>День свекрови в 2026 году: дата в России и мире, идеи подарков и поздравлений</title>
+  <link>https://lenta.ru/articles/2025/10/27/den-svekrovi/</link>
+  <description>
+    <![CDATA[В конце января в России каждый год отмечают День свекрови. И хотя в официальном календаре праздников его нет, во многих семьях принято благодарить свекровей — родных матерей супругов. «Лента.ру» рассказывает историю праздника, его традиции, а также публикует идеи подарков и поздравлений.]]>
+  </description>
+  <pubDate>Mon, 27 Oct 2025 21:50:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2025/01/09/15/20250109152312130/pic_cd1fff0ed9dc298b0fd34e068dd3637d.jpg" type="image/jpeg" length="30780"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/27/kreschenie-gospodne/</guid>
+  <author>Нина Рыкова</author>
+  <title>Крещение Господне в 2026 году: дата, история и традиции праздника</title>
+  <link>https://lenta.ru/articles/2025/10/27/kreschenie-gospodne/</link>
+  <description>
+    <![CDATA[Православные верующие каждый год отмечают Крещение Господне, или Богоявление. Как и Пасха, этот праздник считается одним из самых древних в христианстве. «Лента.ру» рассказывает об истории и традициях Крещения, а также объясняет смысл его названия.<br />]]>
+  </description>
+  <pubDate>Mon, 27 Oct 2025 21:48:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/12/21/12/20231221122000244/pic_02948b2d61f77148d184d3c5d29feafb.jpg" type="image/jpeg" length="35512"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/27/mezhdunarodnyy-den-obyatiy/</guid>
+  <author>Юлия Анасян</author>
+  <title>Международный день объятий в России: дата в 2026 году, история и традиции праздника</title>
+  <link>https://lenta.ru/articles/2025/10/27/mezhdunarodnyy-den-obyatiy/</link>
+  <description>
+    <![CDATA[Эксперты со всего мира сходятся во мнении, что объятия не только приносят удовольствие, но и оказывают положительное влияние на здоровье. Объятиям посвящен отдельный праздник, который отмечается ежегодно 21 января. Подробнее об истории его возникновения и интересных фактах — в материале «Ленты.ру».<br />]]>
+  </description>
+  <pubDate>Mon, 27 Oct 2025 21:48:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2024/12/10/15/20241210150952742/pic_b723d07e91a17865eacaef54c0ad3b54.jpg" type="image/jpeg" length="17518"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/27/kreschenskiy-sochelnik/</guid>
+  <author>Нина Рыкова</author>
+  <title>Крещенский сочельник в 2026 году: дата, традиции и история, как провести</title>
+  <link>https://lenta.ru/articles/2025/10/27/kreschenskiy-sochelnik/</link>
+  <description>
+    <![CDATA[19 января православные верующие празднуют Крещение Господне. Однако богослужения в храмах начинают уже накануне праздника — в Крещенский сочельник. В этот же день там в первый раз освящают воду. «Лента.ру» рассказывает историю Крещенского сочельника и объясняет, что можно и нельзя делать в этот день.]]>
+  </description>
+  <pubDate>Mon, 27 Oct 2025 21:45:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/12/26/16/20231226165713284/pic_724376eec04804f97f85f92fbe4c0b89.jpg" type="image/jpeg" length="24575"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/27/den-rozhdeniya-snegovika/</guid>
+  <author>Анастасия Заикина</author>
+  <title>День рождения снеговика: дата, история и традиции праздника</title>
+  <link>https://lenta.ru/articles/2025/10/27/den-rozhdeniya-snegovika/</link>
+  <description>
+    <![CDATA[Всемирный день снеговика — ежегодный зимний праздник. Люди в разных странах мира, где в это время года есть снег, выходят на улицы, чтобы предаться традиционным сезонным забавам: покататься с горок, поиграть в снежки и, конечно, слепить из снега человечков. Рассказываем, когда появился праздник и как его отметить.]]>
+  </description>
+  <pubDate>Mon, 27 Oct 2025 21:44:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2025/01/14/17/20250114173736563/pic_ca3bb67d649d410deac416a6d60c19db.jpg" type="image/jpeg" length="30315"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/27/staryy-novyy-god/</guid>
+  <author>Нина Рыкова</author>
+  <title>Старый Новый год 2026: дата, история и традиции праздника </title>
+  <link>https://lenta.ru/articles/2025/10/27/staryy-novyy-god/</link>
+  <description>
+    <![CDATA[Кроме самого Нового года, в январе россияне отмечают еще один праздник — старый Новый год. Эта традиция сохранилась и в некоторых других странах. «Лента.ру» рассказывает, какого числа празднуют старый Новый год в 2026-м, откуда появилась такая традиция и как принято отмечать этот праздник.]]>
+  </description>
+  <pubDate>Mon, 27 Oct 2025 21:40:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/10/23/11/20231023114336174/pic_6dd0c351cc8c134553166018c2649553.jpg" type="image/jpeg" length="24749"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/27/obrezanie-gospodne/</guid>
+  <author>Юлия Козинцева</author>
+  <title>Обрезание Господне в 2026 году: дата, история и значение праздника</title>
+  <link>https://lenta.ru/articles/2025/10/27/obrezanie-gospodne/</link>
+  <description>
+    <![CDATA[День Обрезания Господня отмечается между Рождеством Христовым и Крещением. На фоне этих важных дат он несколько теряется, но для верующих праздник Обрезания имеет важное духовное значение. «Лента.ру» выяснила, какой смысл Церковь вкладывает в этот день и каким библейским событиям посвящен праздник.]]>
+  </description>
+  <pubDate>Mon, 27 Oct 2025 21:40:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/12/07/13/20231207134133771/pic_e9d5d8672b7413557b7cf0d94a2451ed.jpg" type="image/jpeg" length="16249"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/27/proizvodstvennyy-kalendar-na-fevral/</guid>
+  <author>Эдуард Юсупов</author>
+  <title>Как отдыхаем в феврале 2026 года: производственный календарь, выходные, праздники и рабочие дни</title>
+  <link>https://lenta.ru/articles/2025/10/27/proizvodstvennyy-kalendar-na-fevral/</link>
+  <description>
+    <![CDATA[Февраль — самый короткий месяц года, в который в России отмечают важный государственный праздник, День защитника Отечества. Этот день — 23 февраля — официально будет нерабочим. «Лента.ру» рассказывает, какие еще праздники ждут россиян в последний месяц зимы, и публикует производственный календарь на февраль 2026 года.]]>
+  </description>
+  <pubDate>Mon, 27 Oct 2025 21:40:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2024/01/15/15/20240115153720908/pic_1b6c986471b3e8bab15cdc59b7298aef.jpg" type="image/jpeg" length="33894"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/27/den-rabotnika-prokuratury/</guid>
+  <author>Мария Фролова</author>
+  <title>День работника прокуратуры в 2026 году: история российского праздника, традиции, слова для поздравления</title>
+  <link>https://lenta.ru/articles/2025/10/27/den-rabotnika-prokuratury/</link>
+  <description>
+    <![CDATA[12 января в России отмечается День работника прокуратуры. «Лента.ру» выяснила, когда появился этот праздник, как устроена система органов надзора за соблюдением законов в РФ, какие у прокуроров обязанности и как подобрать слова, чтобы их поздравить с профессиональным праздником.]]>
+  </description>
+  <pubDate>Mon, 27 Oct 2025 21:36:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/12/09/12/20231209122539002/pic_a9fa9100a913dc0d2291f0c7b33ab7f0.jpg" type="image/jpeg" length="27529"/>
+  <category>Силовые структуры</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/27/rozhdestvenskie-svyatki/</guid>
+  <author>Юлия Козинцева</author>
+  <title>Рождественские Святки в 2026 году. Даты, история, традиции и приметы</title>
+  <link>https://lenta.ru/articles/2025/10/27/rozhdestvenskie-svyatki/</link>
+  <description>
+    <![CDATA[Святочная неделя издавна считалась особым временем, когда можно было гадать на будущее и общаться с потусторонним миром. Несмотря на это, православная традиция не одобряет гаданий и прочих суеверий. «Лента.ру» выяснила, откуда пошла традиция Святок и как их принято отмечать  в разных культурах.]]>
+  </description>
+  <pubDate>Mon, 27 Oct 2025 21:35:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/12/07/17/20231207175110625/pic_2e4f664ab8141f0f8191c62a3a658176.jpg" type="image/jpeg" length="38253"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/27/rozhdestvenskiy-sochelnik/</guid>
+  <author>Анастасия Заикина</author>
+  <title>Рождественский сочельник в 2026 году: дата, история и традиции дня накануне великого православного праздника</title>
+  <link>https://lenta.ru/articles/2025/10/27/rozhdestvenskiy-sochelnik/</link>
+  <description>
+    <![CDATA[В 2025 году более 1,5 миллиона москвичей пришли в храмы на службу в ночь Рождества Сына Божьего Иисуса Христа. Но собираться вместе принято уже в сочельник, вечером накануне торжества. Какие традиции существуют, что можно и что нельзя делать, — читайте в материале «Ленты.ру».]]>
+  </description>
+  <pubDate>Mon, 27 Oct 2025 21:35:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2024/12/20/12/20241220124339152/pic_0a247fadb5bb208a63d6b89353e3ff97.jpg" type="image/jpeg" length="46539"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/27/sobor-presvyatoy-bogoroditsy/</guid>
+  <author>Анастасия Заикина</author>
+  <title>Собор Пресвятой Богородицы в 2026 году: история и традиции праздника. Как отмечать, что можно и нельзя делать</title>
+  <link>https://lenta.ru/articles/2025/10/27/sobor-presvyatoy-bogoroditsy/</link>
+  <description>
+    <![CDATA[На следующий день после Рождества Христова православные христиане отмечают Собор Пресвятой Богородицы. Этот праздник восхваляет Богоматерь и других приближенных к Иисусу Христу святых. «Лента.ру» рассказывает об истории и традициях, приводит молитвы, которые читают в храмах в этот день.<br />]]>
+  </description>
+  <pubDate>Mon, 27 Oct 2025 21:35:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2024/12/28/11/20241228113828947/pic_0491b81776cc020763811d5b17bbff6a.jpg" type="image/jpeg" length="38812"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/27/novyy-god-v-rossii/</guid>
+  <author>Эдуард Юсупов</author>
+  <title>Новый год в России: история, традиции и обычаи праздника</title>
+  <link>https://lenta.ru/articles/2025/10/27/novyy-god-v-rossii/</link>
+  <description>
+    <![CDATA[Новый год — один из любимых праздников россиян, который каждый год отмечают дети и взрослые по всей стране. «Лента.ру» рассказывает о том, какого числа раньше праздновали Новый год, кто придумал украшать новогодние елки и какие традиции связаны с этим праздником в России.]]>
+  </description>
+  <pubDate>Mon, 27 Oct 2025 21:30:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/10/18/13/20231018133836344/pic_9cafe65d96d90183d44955383391531c.jpg" type="image/jpeg" length="30563"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/27/kolyadki-na-rozhdestvo/</guid>
+  <author>Ирина Майская</author>
+  <title>Колядки на Рождество: когда появилась традиция, что петь, чем благодарить</title>
+  <link>https://lenta.ru/articles/2025/10/27/kolyadki-na-rozhdestvo/</link>
+  <description>
+    <![CDATA[Колядки — это славянские обрядовые песни, которые было принято петь в период Святок — с Рождества Христова и до Крещения. Как получилось, что языческая традиция прочно соединилась с христианскими праздниками, и откуда она пошла изначально — читайте в материале «Ленты.ру».]]>
+  </description>
+  <pubDate>Mon, 27 Oct 2025 21:25:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/12/22/12/20231222122822643/pic_2bcf2b0d47ce670f6cb6a97d6b93773a.jpg" type="image/jpeg" length="43558"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/27/chto-podarit-podruge-na-novyy-god/</guid>
+  <author>Александра Кравченко</author>
+  <title>Что подарить подруге на Новый год? Список оригинальных и недорогих подарков на 2026 год</title>
+  <link>https://lenta.ru/articles/2025/10/27/chto-podarit-podruge-na-novyy-god/</link>
+  <description>
+    <![CDATA[На Новый год принято дарить подарки друзьям и близким. Но часто бывает так, что за столько лет общения идеи презентов, которые можно подарить, уже кончились, а покупать что-то банальное не хочется. «Лента.ру» подготовила список недорогих, но оригинальных вещей, которые можно подарить подруге на Новый год — 2026.]]>
+  </description>
+  <pubDate>Mon, 27 Oct 2025 18:42:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/10/13/17/20231013173520224/pic_d88da2e33519cfa25c3313833b3244b4.jpg" type="image/jpeg" length="26977"/>
+  <category>Забота о себе</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/27/nedorogie-podarki-na-novyi-god/</guid>
+  <author>Нина Рыкова</author>
+  <title>Недорогие подарки на Новый год 2026: 80 идей для детей и взрослых</title>
+  <link>https://lenta.ru/articles/2025/10/27/nedorogie-podarki-na-novyi-god/</link>
+  <description>
+    <![CDATA[Многие задумываются, что подарить на Новый год родным, друзьям и коллегам. Чтобы продемонстрировать окружающим заботу и внимание, не обязательно покупать презент за десятки тысяч рублей. «Лента.ру» подготовила подборку недорогих, но необычных подарков для близких и знакомых.<br />]]>
+  </description>
+  <pubDate>Mon, 27 Oct 2025 18:36:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/10/11/01/20231011014612950/pic_2328b27bcbedeb8f61197590f1e0846b.jpg" type="image/jpeg" length="37074"/>
+  <category>Забота о себе</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/27/chto-podarit-parnyu-na-novyy-god/</guid>
+  <author>Екатерина Керсипова</author>
+  <title>Что подарить парню на Новый год — 2026: 40+ идей </title>
+  <link>https://lenta.ru/articles/2025/10/27/chto-podarit-parnyu-na-novyy-god/</link>
+  <description>
+    <![CDATA[Подарки на Новый год обычно готовят заранее — особенно если они предназначены самым близким. В случае со вторыми половинками сделать это бывает сложно, если все традиционные варианты не нравятся или уже дарились (и не раз). «Лента.ру» публикует подборку презентов, которые можно преподнести парню на Новый год — 2026.]]>
+  </description>
+  <pubDate>Mon, 27 Oct 2025 18:33:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/10/12/21/20231012215404995/pic_c153acdd95e13922a32ff6b1b17cbd67.jpg" type="image/jpeg" length="36404"/>
+  <category>Забота о себе</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/27/chto-podarit-devushke-na-novyy-god/</guid>
+  <author>Юлия Козинцева</author>
+  <title>Что подарить девушке на Новый год — 2026: оригинальные идеи подарков</title>
+  <link>https://lenta.ru/articles/2025/10/27/chto-podarit-devushke-na-novyy-god/</link>
+  <description>
+    <![CDATA[Порой понять, что подарить девушке на Новый год, бывает непросто. Ведь молодые люди зачастую хотят не только угодить своей любимой, но и удивить ее, сделать так, чтобы подарок приносил пользу и навевал теплые воспоминания. «Лента.ру» выяснила, как сделать самый лучший подарок девушке на Новый год — 2026.]]>
+  </description>
+  <pubDate>Mon, 27 Oct 2025 18:30:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/10/10/17/20231010173455533/pic_4843b6db7b77b746cd360ed73274328a.jpg" type="image/jpeg" length="30652"/>
+  <category>Забота о себе</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/27/gangsterlend-2-sezon/</guid>
+  <author>Эдуард Юсупов</author>
+  <title>«Гангстерленд», 2-й сезон, 2026 год: что известно о продолжении криминальной драмы с Томом Харди</title>
+  <link>https://lenta.ru/articles/2025/10/27/gangsterlend-2-sezon/</link>
+  <description>
+    <![CDATA[В 2026 году состоится премьера второго сезона сериала «Гангстерленд». Это мрачная криминальная драма с Томом Харди в главной роли. В центре сюжета — вражда влиятельных мафиозных кланов. Дата выхода, сюжет и актерский состав продолжения «Гангстерленда» — в материале «Ленты.ру».]]>
+  </description>
+  <pubDate>Mon, 27 Oct 2025 17:38:17 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2025/10/23/14/20251023141039926/pic_f794ff5faee9b9164392ae94e2c9fd94.jpg" type="image/jpeg" length="19501"/>
+  <category>Культура</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/27/serial-pro-eto-samoe-2-sezon/</guid>
+  <author>Эдуард Юсупов</author>
+  <title>Сериал «Про это самое», 2-й сезон, 2026 год: что известно о продолжении дерзкой комедии</title>
+  <link>https://lenta.ru/articles/2025/10/27/serial-pro-eto-samoe-2-sezon/</link>
+  <description>
+    <![CDATA[Весной 2025 года состоялась премьера сериала «Про это самое». Это дерзкая комедия о враче-сексологе, который решает интимные проблемы жителей родного села. «Лента.ру» рассказывает, что известно о продолжении сериала: сюжет, актерский состав и дата выхода второго сезона «Про это самое».]]>
+  </description>
+  <pubDate>Mon, 27 Oct 2025 17:38:04 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2025/10/23/15/20251023153040295/pic_dcd146fbd1b3418e3bf67c5f700246e1.jpg" type="image/jpeg" length="24596"/>
+  <category>Культура</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/27/serialy-2026/</guid>
+  <author>Михаил Аксенов</author>
+  <title>30 самых ожидаемых сериалов 2026 года: премьеры и продолжения</title>
+  <link>https://lenta.ru/articles/2025/10/27/serialy-2026/</link>
+  <description>
+    <![CDATA[В 2026 году на экраны выйдут долгожданные «Бегущий по лезвию 2099» и «Квест Вижна», а также продолжения «Разделения», «Эйфории» и «Пацанов». «Лента.ру» публикует топ-30 лучших сериалов, которые можно будет увидеть в 2026-м, а также рассказывает, что будет в новых главах полюбившихся проектов и что ждать от премьер.<br />]]>
+  </description>
+  <pubDate>Mon, 27 Oct 2025 17:37:51 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2025/10/21/18/20251021180430453/pic_e5127a2e4000a7ac4e563c957eb93467.webp" type="image/webp" length="5960"/>
+  <category>Культура</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/27/kabachkovaya-zapekanka/</guid>
+  <author>Галина Васильева</author>
+  <title>Кабачковая запеканка: топ-10 рецептов на каждый день, пошаговые инструкции с фото</title>
+  <link>https://lenta.ru/articles/2025/10/27/kabachkovaya-zapekanka/</link>
+  <description>
+    <![CDATA[Кабачки хороши не только в жареном виде, но и в запеченном — например, в виде пирогов и многосоставных запеканок. Приготовить их в домашних условиях в духовке можно быстро и просто, а подать будет уместно в любое время суток, даже на завтрак. «Лента.ру» публикует топ-10 рецептов кабачковых запеканок — с мясом и без.]]>
+  </description>
+  <pubDate>Mon, 27 Oct 2025 17:37:32 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2025/10/20/17/20251020173032670/pic_83fd11c2c64c2d6a495b1bf5e1ff2b04.jpg" type="image/jpeg" length="38849"/>
+  <category>Из жизни</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/27/lunnyy-kalendar-na-noyabr/</guid>
+  <author>Александра Разумовская</author>
+  <title>Лунный календарь на ноябрь 2025 года: фазы Луны, благоприятные и неблагоприятные дни</title>
+  <link>https://lenta.ru/articles/2025/10/27/lunnyy-kalendar-na-noyabr/</link>
+  <description>
+    <![CDATA[Опыт многих поколений показывает, что лунные циклы оказывают существенное воздействие на людей. Есть мнение, что эмоции, как приливы и отливы океанов, связаны с тем, растет Луна или убывает. «Лента.ру» публикует лунный календарь на ноябрь 2025 года и рассказывает, какие дни подходят для важных решений.]]>
+  </description>
+  <pubDate>Mon, 27 Oct 2025 17:37:10 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2025/09/24/13/20250924131140187/pic_23d1795dba69ee7cf46d58606cb9536f.jpg" type="image/jpeg" length="12210"/>
+  <category>Из жизни</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/27/otkrytki-babushki-dedushki/</guid>
+  <author>Нэлли Свердлова</author>
+  <title>Открытки с Днем бабушек и дедушек: 30+ красивых картинок и поздравлений</title>
+  <link>https://lenta.ru/articles/2025/10/27/otkrytki-babushki-dedushki/</link>
+  <description>
+    <![CDATA[28 октября в России поздравляют бабушек и дедушек — это их праздник. Старшему поколению говорят слова любви и благодарности, признают их роль в жизни детей и внуков. «Лента.ру» подготовила более 30 красивых открыток и поздравлений с Днем бабушек и дедушек, которые можно скачать бесплатно.]]>
+  </description>
+  <pubDate>Mon, 27 Oct 2025 17:36:56 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2025/09/24/14/20250924142051786/pic_0282790e2766678687cde9202cd652ac.jpg" type="image/jpeg" length="29128"/>
+  <category>Из жизни</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/27/promzony-stali-klasterami/</guid>
+  <author>Елизавета Аверкова</author>
+  <title>В Москве появились новые престижные районы. Где ускорится рост цен на жилье?</title>
+  <link>https://lenta.ru/articles/2025/10/27/promzony-stali-klasterami/</link>
+  <description>
+    <![CDATA[География престижного жилья Москвы заметно меняется. Его уже не обязательно искать рядом с Кремлем. Новые центры рождаются за третьим транспортным кольцом, где сегодня заливают бетон в фундаменты кварталов бизнес-класса. Чем они привлекают состоятельных покупателей жилья?]]>
+  </description>
+  <pubDate>Mon, 27 Oct 2025 17:04:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2025/10/27/11/20251027110857095/pic_8bff53058dcdf615c39ada867df9c0bc.jpg" type="image/jpeg" length="33632"/>
+  <category>Экономика</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2024/12/25/nedelia-o-mytare-i-farisee/</guid>
+  <author>Ирина Майская</author>
+  <title>Неделя о мытаре и фарисее в 2026 году: когда начинается подготовка к Великому посту?</title>
+  <link>https://lenta.ru/articles/2024/12/25/nedelia-o-mytare-i-farisee/</link>
+  <description>
+    <![CDATA[С недели о мытаре и фарисее начинается особый период подготовки верующих к Великому посту (в 2026 году его первый день выпадает на 23 февраля). К чему призывает эта знаменитая притча и насколько она актуальна в современном мире, рассказывает «Лента.ру».]]>
+  </description>
+  <pubDate>Mon, 27 Oct 2025 15:48:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2024/02/14/18/20240214181819908/pic_376a5b76341a30c8cdcd79eac0783810.jpg" type="image/jpeg" length="18725"/>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/27/serial-metod-3-sezon/</guid>
+  <author>Эдуард Юсупов</author>
+  <title>Сериал «Метод», 3-й сезон: дата выхода, что известно о продолжении детектива с Константином Хабенским</title>
+  <link>https://lenta.ru/articles/2025/10/27/serial-metod-3-sezon/</link>
+  <description>
+    <![CDATA[В 2025 году зрители увидят третий сезон «Метода» — запутанного детективного сериала о поиске маньяков с Константином Хабенским в главной роли. «Лента.ру» рассказывает, что известно о сюжете и актерском составе продолжения, а также объясняет, почему Юрий Быков решил вновь вернуться в режиссерское кресло проекта.]]>
+  </description>
+  <pubDate>Mon, 27 Oct 2025 13:12:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2024/05/14/12/20240514125648036/pic_a7d1baf15decbdb39bca74d6971d567d.jpg" type="image/jpeg" length="16336"/>
+  <category>Культура</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/27/toys/</guid>
+  <author>Екатерина Улитина</author>
+  <title>«Хочу, чтобы дети строили свой мир и правили в нем» Кто в России создает уникальные игрушки, с которыми хотят играть даже взрослые?</title>
+  <link>https://lenta.ru/articles/2025/10/27/toys/</link>
+  <description>
+    <![CDATA[]]>
+  </description>
+  <pubDate>Mon, 27 Oct 2025 10:55:17 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2025/10/17/12/20251017125240024/pic_d1c7885ff1763755ff39e4d6d5339d89.jpg" type="image/jpeg" length="33524"/>
+  <category>Ценности</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/27/tehnologicheskoe-perevooruzhenie/</guid>
+  <title>Технологическое перевооружение. Как нацпроект изменит российскую промышленность?</title>
+  <link>https://lenta.ru/articles/2025/10/27/tehnologicheskoe-perevooruzhenie/</link>
+  <description>
+    <![CDATA[Правительство России делает масштабную ставку на отечественное станкостроение и роботизацию, чтобы к 2030 году обеспечить стране лидирующие позиции в сфере высокотехнологичного производства и снизить зависимость от импорта. ]]>
+  </description>
+  <pubDate>Mon, 27 Oct 2025 10:00:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2025/10/23/12/20251023122636950/pic_17830d818c2658ad2eca7360151f6cf9.jpg" type="image/jpeg" length="32672"/>
+  <category>Экономика</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/27/r-desai/</guid>
+  <author>Елизавета Мытарева</author>
+  <title>«Мы наживаем врага в лице России» Откуда взялось украинское лобби в Канаде и как ему удается продвигать русофобскую политику?</title>
+  <link>https://lenta.ru/articles/2025/10/27/r-desai/</link>
+  <description>
+    <![CDATA[]]>
+  </description>
+  <pubDate>Mon, 27 Oct 2025 00:01:03 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2025/10/07/12/20251007124236382/pic_47898058d6f89160e74e5632c5575511.jpg" type="image/jpeg" length="25275"/>
+  <category>Мир</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/26/serbia/</guid>
+  <author>Алина Алексеева</author>
+  <title>«Пиво стоит дешевле, чем вода» Россиянка отправилась в Сербию вслед за мужем. Чем ее удивили местные и почему она хочет уехать?</title>
+  <link>https://lenta.ru/articles/2025/10/26/serbia/</link>
+  <description>
+    <![CDATA[]]>
+  </description>
+  <pubDate>Sun, 26 Oct 2025 00:01:12 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2025/10/17/16/20251017163549854/pic_6e57171d258175dae8cd7efe64124912.jpg" type="image/jpeg" length="43264"/>
+  <category>Из жизни</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/26/on-naletel-kak-zver/</guid>
+  <author>Алексей Гусев</author>
+  <title>«Он налетел на немца, как зверь» Как советский боксер стал узником Бухенвальда, выиграл там 80 боев и помог устроить восстание</title>
+  <link>https://lenta.ru/articles/2025/10/26/on-naletel-kak-zver/</link>
+  <description>
+    <![CDATA[]]>
+  </description>
+  <pubDate>Sun, 26 Oct 2025 00:01:08 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2025/10/21/12/20251021124628235/pic_685c557feff670a028dbd8287bfb9f39.jpeg" type="image/jpeg" length="15860"/>
+  <category>Спорт</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/26/gubernatori/</guid>
+  <author>Дмитрий Окунев</author>
+  <title>Молодые бароны. Рулили регионами, а доживали в нищете. Как сложились судьбы первых губернаторов России?</title>
+  <link>https://lenta.ru/articles/2025/10/26/gubernatori/</link>
+  <description>
+    <![CDATA[]]>
+  </description>
+  <pubDate>Sun, 26 Oct 2025 00:01:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2025/10/03/14/20251003144859447/pic_98b7919167a2d717254592857599fd8f.jpg" type="image/jpeg" length="30377"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/25/ai/</guid>
+  <author>Лилиана Набиуллина</author>
+  <title>«Пузырь может лопнуть, как в нулевые» Тысячи инвесторов поверили в ИИ и рискуют остаться ни с чем. Почему им грозит разорение?</title>
+  <link>https://lenta.ru/articles/2025/10/25/ai/</link>
+  <description>
+    <![CDATA[]]>
+  </description>
+  <pubDate>Sat, 25 Oct 2025 00:01:32 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2025/10/24/14/20251024143804250/pic_dd1d23276d5e8e51f143144f7b595d51.jpg" type="image/jpeg" length="28161"/>
+  <category>Экономика</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/25/ya-hochu-muzhchinu-s-yadernoy-knopkoy/</guid>
+  <author>Дина Васильева</author>
+  <title>«Я хочу мужчину с ядерной кнопкой» Карла Бруни привыкла к любовным драмам, власти и роскоши. Как она будет жить без Николя Саркози?</title>
+  <link>https://lenta.ru/articles/2025/10/25/ya-hochu-muzhchinu-s-yadernoy-knopkoy/</link>
+  <description>
+    <![CDATA[]]>
+  </description>
+  <pubDate>Sat, 25 Oct 2025 00:01:21 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2025/10/24/15/20251024150036749/pic_4979b64af207ec0f328a1000e9ef5aab.jpg" type="image/jpeg" length="25512"/>
+  <category>Ценности</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/25/bondar/</guid>
+  <author>Андрей Мозжухин</author>
+  <title>Руины былого величия. Как выглядела Франция в первые дни после гитлеровской оккупации: уникальные кадры начала Второй мировой </title>
+  <link>https://lenta.ru/articles/2025/10/25/bondar/</link>
+  <description>
+    <![CDATA[«Лента.ру» продолжает представлять редкие кадры времен Второй мировой войны. Фотоархив неизвестного немецкого солдата, служившего в люфтваффе, спустя почти 80 лет после ее окончания приобрел в Германии фотограф Артур Бондарь.]]>
+  </description>
+  <pubDate>Sat, 25 Oct 2025 00:01:16 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2025/02/19/19/20250219194019504/pic_9bf9e94c728cca03f221529886059cdd.jpg" type="image/jpeg" length="30334"/>
+  <category>Наука и техника</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/25/amerika-poluchaet-yadernyy-udar-v-novom-trillere-rezhissera-na-grebne-volny/</guid>
+  <author>Ярослав Забалуев</author>
+  <title>Америка получает ядерный удар в новом триллере режиссера «На гребне волны». Почему всем стоит увидеть «Дом динамита»?</title>
+  <link>https://lenta.ru/articles/2025/10/25/amerika-poluchaet-yadernyy-udar-v-novom-trillere-rezhissera-na-grebne-volny/</link>
+  <description>
+    <![CDATA[]]>
+  </description>
+  <pubDate>Sat, 25 Oct 2025 00:01:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2025/10/24/12/20251024120154631/pic_fd5c88cf205d38880a2ed146ae41ed28.jpg" type="image/jpeg" length="25503"/>
+  <category>Культура</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/24/25-luchshih-komediy-2025-goda/</guid>
+  <author>Кирилл Юрьев</author>
+  <title>Топ-25 лучших комедий 2025 года: самые смешные российские и зарубежные фильмы</title>
+  <link>https://lenta.ru/articles/2025/10/24/25-luchshih-komediy-2025-goda/</link>
+  <description>
+    <![CDATA[В 2025 году на экраны вышло множество комедий — проекты российских и зарубежных производителей. Год еще не закончился, и на оставшиеся месяцы уже запланировано несколько ярких премьер. «Лента.ру» публикует топ-25 лучших комедий 2025 года, а также ожидаемых новинок кино в этом жанре, которые выйдут в ближайшее время.]]>
+  </description>
+  <pubDate>Fri, 24 Oct 2025 16:45:02 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2025/10/22/14/20251022145634729/pic_17e416db58822a9f4a91cc9d87a1ec1a.jpg" type="image/jpeg" length="23549"/>
+  <category>Культура</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/24/retsepty-zhyuliena/</guid>
+  <author>Галина Васильева</author>
+  <title>Как приготовить жюльен дома: четыре пошаговых рецепта</title>
+  <link>https://lenta.ru/articles/2025/10/24/retsepty-zhyuliena/</link>
+  <description>
+    <![CDATA[Жюльен — изысканная горячая французская закуска, при этом приготовить ее самостоятельно на домашней кухне не очень сложно. «Лента.ру» публикует лучшие рецепты этого блюда — для любителей курицы, грибов, морепродуктов и для вегетарианцев, а также рекомендации, как правильно жюльен сервировать.]]>
+  </description>
+  <pubDate>Fri, 24 Oct 2025 16:44:47 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2025/10/15/12/20251015124215481/pic_47741fb93e1387202a91672e97af7550.jpg" type="image/jpeg" length="47326"/>
+  <category>Из жизни</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/24/zagotovki-na-zimu-iz-tykvy/</guid>
+  <author>Ксения Дорофеева</author>
+  <title>Заготовки из тыквы на зиму: 12 лучших рецептов с пошаговыми инструкциями</title>
+  <link>https://lenta.ru/articles/2025/10/24/zagotovki-na-zimu-iz-tykvy/</link>
+  <description>
+    <![CDATA[Тыква созревает в период с начала сентября до конца ноября, поэтому считается традиционным осенним блюдом. В это время в ресторанах и кафе появляются блюда и напитки с тыквой, а хозяйки начинают делать заготовки на зиму. Лучшие рецепты разных блюд из тыквы с подробными пошаговыми инструкциями — в материале «Ленты.ру».<br />]]>
+  </description>
+  <pubDate>Fri, 24 Oct 2025 16:44:20 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2025/10/01/12/20251001125756273/pic_6914d6fc5fecbe287fb5bfafbfd24aab.jpg" type="image/jpeg" length="34057"/>
+  <category>Из жизни</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/24/mezhdunarodnyy-den-teschi/</guid>
+  <author>Ксения Дорофеева</author>
+  <title>Международный день тещи в 2025 году: дата, история и традиции</title>
+  <link>https://lenta.ru/articles/2025/10/24/mezhdunarodnyy-den-teschi/</link>
+  <description>
+    <![CDATA[Несмотря на то, что Международный день тещи не имеет официального статуса, этот семейный праздник становится все популярнее с каждым годом. «Лента.ру» рассказывает главное о Международном дне тещи: история праздника, когда отмечают в 2025 году,  какие традиции с ним связаны и как поздравить тещу.<br />]]>
+  </description>
+  <pubDate>Fri, 24 Oct 2025 16:43:28 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2025/10/13/11/20251013115815599/pic_dec5d0962a81c42fd126b35aa30e5f33.jpg" type="image/jpeg" length="33523"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/24/otkrytki-den-teschi/</guid>
+  <author>Нэлли Свердлова</author>
+  <title>Открытки с Днем тещи: 40+ красивых картинок и поздравлений</title>
+  <link>https://lenta.ru/articles/2025/10/24/otkrytki-den-teschi/</link>
+  <description>
+    <![CDATA[В четвертое воскресенье октября отмечают Международный день тещи. Для зятя праздник — это повод публично поблагодарить мать жены и бабушку своих детей за помощь, советы, участие в семейной жизни. «Лента.ру» подготовила более 40 открыток и поздравлений с Днем тещи, которые можно скачать бесплатно.]]>
+  </description>
+  <pubDate>Fri, 24 Oct 2025 16:43:17 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2025/09/23/10/20250923102926737/pic_390fbfe7b83dcf5fd97f4abb0b785a01.jpg" type="image/jpeg" length="29806"/>
+  <category>Из жизни</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/24/pozdravleniya-s-dnem-teschi/</guid>
+  <author>Ксения Дорофеева</author>
+  <title>Душевные поздравления с Днем тещи: короткие и длинные, в стихах и в прозе</title>
+  <link>https://lenta.ru/articles/2025/10/24/pozdravleniya-s-dnem-teschi/</link>
+  <description>
+    <![CDATA[Каждое четвертое воскресенье октября в России и во многих других странах мира отмечают День тещи. В 2025 году праздник выпадает на 26 число. «Лента.ру» собрала самые красивые варианты душевных поздравлений с Днем тещи: короткие и длинные, в стихах и в прозе, для смсок и открыток. <br />]]>
+  </description>
+  <pubDate>Fri, 24 Oct 2025 16:42:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2025/09/16/18/20250916183741001/pic_16aecf3ec6ada3516557de480a514d0a.jpg" type="image/jpeg" length="35538"/>
+  <category>Из жизни</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/24/ege-po-russkomu-yazyku/</guid>
+  <author>Александра Кравченко</author>
+  <title>ЕГЭ по русскому языку в 2026 году: какие изменения в экзамене ждут выпускников</title>
+  <link>https://lenta.ru/articles/2025/10/24/ege-po-russkomu-yazyku/</link>
+  <description>
+    <![CDATA[В 2026 году правила ЕГЭ по русскому языку, одного из обязательных экзаменов для выпускников российских школ, немного изменятся. «Лента.ру» рассказывает, что ожидается нового в заданиях и в системе оценивания, а также делится рекомендациями, как подготовиться к этому экзамену.]]>
+  </description>
+  <pubDate>Fri, 24 Oct 2025 15:05:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/12/08/11/20231208111254928/pic_70159338c256d2c93600ac9990d8ac2b.jpeg" type="image/jpeg" length="29608"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/24/kak-skachat-video-vk/</guid>
+  <author>Эдуард Юсупов</author>
+  <title>Как скачать видео из «ВКонтакте» на компьютер и телефон: 6 простых способов</title>
+  <link>https://lenta.ru/articles/2025/10/24/kak-skachat-video-vk/</link>
+  <description>
+    <![CDATA[Чтобы смотреть видеоконтент во «ВКонтакте», необходимо стабильное подключение к интернету. Так что если возникла необходимость посмотреть видео в режиме офлайн, его нужно скачать из социальной сети. «Лента.ру» публикует список способов, которые помогут загрузить видео из «ВКонтакте» на мобильный телефон или ноутбук.]]>
+  </description>
+  <pubDate>Fri, 24 Oct 2025 14:14:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/06/27/13/20230627130744155/pic_3e057288dbd8c96f080b15a0fa0ef35d.jpg" type="image/jpeg" length="35211"/>
+  <category>Интернет и СМИ</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/24/obyazatelnye-i-dopolnitelnye-predmety-ege/</guid>
+  <author>Александра Кравченко</author>
+  <title>Обязательные и дополнительные предметы ЕГЭ в 2026 году. Какие экзамены выбрать для сдачи?</title>
+  <link>https://lenta.ru/articles/2025/10/24/obyazatelnye-i-dopolnitelnye-predmety-ege/</link>
+  <description>
+    <![CDATA[Единый государственный экзамен в России остается обязательным для выпуска из школы после 11 класса и получения аттестата о среднем общем образовании. В 2026 году в сдаче ЕГЭ выпускников ждут небольшие изменения. «Лента.ру» рассказывает о них, а также дает рекомендации по выбору предметов и подготовке к экзамену.]]>
+  </description>
+  <pubDate>Fri, 24 Oct 2025 12:39:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2023/11/23/12/20231123123021088/pic_eb860c6c0c34d9cb28bba04afcffb4b9.jpg" type="image/jpeg" length="28354"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/24/kras/</guid>
+  <title>Дрон влетел в жилой дом в Красногорске — он пробил многоэтажку насквозь: главные кадры последствий атаки</title>
+  <link>https://lenta.ru/articles/2025/10/24/kras/</link>
+  <description>
+    <![CDATA[]]>
+  </description>
+  <pubDate>Fri, 24 Oct 2025 09:41:00 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2025/10/24/11/20251024115614926/pic_bfc964739ee7d35300423b4bdfdc222b.jpg" type="image/jpeg" length="33426"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/24/usoltsevy/</guid>
+  <author>Дарья Новичкова</author>
+  <title>Загадочное исчезновение семьи с пятилетней дочерью в тайге шокировало россиян. Что говорят основные версии их пропажи?</title>
+  <link>https://lenta.ru/articles/2025/10/24/usoltsevy/</link>
+  <description>
+    <![CDATA[]]>
+  </description>
+  <pubDate>Fri, 24 Oct 2025 00:01:17 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2025/10/23/18/20251023181034151/pic_01a298db9a6269dbd8437dee648235c8.jpg" type="image/jpeg" length="41233"/>
+  <category>Россия</category>
+</item>
+<item>
+  <guid>https://lenta.ru/articles/2025/10/24/v-rossii-nikto-tak-ne-startoval/</guid>
+  <author>Андрей Стрельцов</author>
+  <title>«В России никто так не стартовал» Европейские клубы охотятся за молодой звездой российского футбола. Он круче Аршавина и Кержакова</title>
+  <link>https://lenta.ru/articles/2025/10/24/v-rossii-nikto-tak-ne-startoval/</link>
+  <description>
+    <![CDATA[]]>
+  </description>
+  <pubDate>Fri, 24 Oct 2025 00:01:14 +0300</pubDate>
+  <enclosure url="https://icdn.lenta.ru/images/2025/10/23/17/20251023172917595/pic_fa72af29a7b0c5f1a2b966751d2a5689.jpg" type="image/jpeg" length="19217"/>
+  <category>Спорт</category>
+</item>
+  </channel>
+</rss>

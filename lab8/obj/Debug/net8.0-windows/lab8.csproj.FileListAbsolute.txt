@@ -1,0 +1,17 @@
+d:\Shared_Data\ВУЗ\3 курс\Лабы\Visual-Programming\lab8\bin\Debug\net8.0-windows\lab8.exe
+d:\Shared_Data\ВУЗ\3 курс\Лабы\Visual-Programming\lab8\bin\Debug\net8.0-windows\lab8.deps.json
+d:\Shared_Data\ВУЗ\3 курс\Лабы\Visual-Programming\lab8\bin\Debug\net8.0-windows\lab8.runtimeconfig.json
+d:\Shared_Data\ВУЗ\3 курс\Лабы\Visual-Programming\lab8\bin\Debug\net8.0-windows\lab8.dll
+d:\Shared_Data\ВУЗ\3 курс\Лабы\Visual-Programming\lab8\bin\Debug\net8.0-windows\lab8.pdb
+d:\Shared_Data\ВУЗ\3 курс\Лабы\Visual-Programming\lab8\obj\Debug\net8.0-windows\lab8.Form1.resources
+d:\Shared_Data\ВУЗ\3 курс\Лабы\Visual-Programming\lab8\obj\Debug\net8.0-windows\lab8.csproj.GenerateResource.cache
+d:\Shared_Data\ВУЗ\3 курс\Лабы\Visual-Programming\lab8\obj\Debug\net8.0-windows\lab8.GeneratedMSBuildEditorConfig.editorconfig
+d:\Shared_Data\ВУЗ\3 курс\Лабы\Visual-Programming\lab8\obj\Debug\net8.0-windows\lab8.AssemblyInfoInputs.cache
+d:\Shared_Data\ВУЗ\3 курс\Лабы\Visual-Programming\lab8\obj\Debug\net8.0-windows\lab8.AssemblyInfo.cs
+d:\Shared_Data\ВУЗ\3 курс\Лабы\Visual-Programming\lab8\obj\Debug\net8.0-windows\lab8.csproj.CoreCompileInputs.cache
+d:\Shared_Data\ВУЗ\3 курс\Лабы\Visual-Programming\lab8\obj\Debug\net8.0-windows\lab8.sourcelink.json
+d:\Shared_Data\ВУЗ\3 курс\Лабы\Visual-Programming\lab8\obj\Debug\net8.0-windows\lab8.dll
+d:\Shared_Data\ВУЗ\3 курс\Лабы\Visual-Programming\lab8\obj\Debug\net8.0-windows\refint\lab8.dll
+d:\Shared_Data\ВУЗ\3 курс\Лабы\Visual-Programming\lab8\obj\Debug\net8.0-windows\lab8.pdb
+d:\Shared_Data\ВУЗ\3 курс\Лабы\Visual-Programming\lab8\obj\Debug\net8.0-windows\lab8.genruntimeconfig.cache
+d:\Shared_Data\ВУЗ\3 курс\Лабы\Visual-Programming\lab8\obj\Debug\net8.0-windows\ref\lab8.dll
